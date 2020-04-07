@@ -5,15 +5,26 @@
     @include grid-column-gutter;
   }
 
+  > :first-child {
+    @include full-width-background;
+    background: $light;
+    margin-top: -$line-height;
+    padding-top: $line-height;
+  }
+
+  h1 {
+    margin-bottom: 0;
+  }
+
   header {
     @include has-fa-icon(building, regular, after);
     align-items: center;
+    background-color: $body-background;
     border: $border-width solid;
     color: $brand-secondary;
     border-bottom-right-radius: rem-calc(12);
     border-top-right-radius: rem-calc(12);
     display: flex;
-    margin-bottom: $line-height * 2;
     margin-top: $line-height * 2;
 
     @include breakpoint(large) {
@@ -38,7 +49,6 @@
       display: flex;
       flex: 1;
       font-size: rem-calc(36);
-      margin-bottom: 0;
       padding: $line-height * 2 0;
 
       @include breakpoint(large) {
