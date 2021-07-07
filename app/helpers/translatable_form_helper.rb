@@ -14,7 +14,7 @@ module TranslatableFormHelper
   end
 
   def highlight_translation_html_class
-    "highlight" if translations_interface_enabled?
+    "highlight translation-interface" if translations_interface_enabled?
   end
 
   class TranslatableFormBuilder < ConsulFormBuilder
