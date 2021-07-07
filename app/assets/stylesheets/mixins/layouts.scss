@@ -23,7 +23,7 @@
   }
 }
 
-@mixin full-width-cover {
+@mixin full-width-cover($margin: true, $gutter: false) {
   bottom: 0;
   content: "";
   display: block;
@@ -33,27 +33,43 @@
   right: 0;
   top: 0;
 
+  @if $gutter {
+    @include -zf-each-breakpoint {
+      $padding: rem-calc(-zf-get-bp-val($grid-column-gutter, $-zf-size)) / 2;
+
+      left: -$padding;
+      right: -$padding;
+    }
+  }
+
   @include breakpoint($global-width) {
-    left: $full-width-margin;
-    right: $full-width-margin;
+    $global-padding: rem-calc(map-get($grid-column-gutter, medium)) / 2;
+
+    @if $gutter and $margin {
+      left: calc(#{$full-width-margin} - #{$global-padding});
+      right: calc(#{$full-width-margin} - #{$global-padding});
+    } @else if $margin {
+      left: calc(#{$full-width-margin});
+      right: calc(#{$full-width-margin});
+    }
   }
 }
 
-@mixin full-width-background {
+@mixin full-width-background($margin: true, $gutter: false) {
   position: relative;
 
   &::before {
-    @include full-width-cover;
+    @include full-width-cover($margin: $margin, $gutter: $gutter);
     background: inherit;
     z-index: -1;
   }
 }
 
-@mixin full-width-border($position, $border) {
+@mixin full-width-border($position, $border, $margin: true, $gutter: false) {
   position: relative;
 
   &::after {
-    @include full-width-cover;
+    @include full-width-cover($margin: $margin, $gutter: $gutter);
     border-#{$position}: $border;
   }
 }
