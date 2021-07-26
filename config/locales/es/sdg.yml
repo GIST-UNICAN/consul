@@ -2,10 +2,22 @@ es:
   sdg:
     goals:
       goal_1:
-        title: "Fin de la pobreza"
-        title_in_two_lines: "Fin\nde la probreza"
-        description: "Poner fin a la pobreza en todas sus formas en todo el mundo."
-        long_description: '<p>A nivel mundial, el número de personas que viven en situación de extrema pobreza disminuyó desde un 36&nbsp;% en 1990 hasta un 10&nbsp;% en 2015. No obstante, el ritmo al que se produce este cambio está disminuyendo, y la crisis de la COVID-19 <a href="https://www.un.org/sites/un2.un.org/files/sg_report_socio-economic_impact_of_covid19.pdf">pone en riesgo décadas de progreso</a> en la lucha contra la pobreza. <a href="https://www.wider.unu.edu/node/237051">Una nueva investigación</a> publicada por el Instituto Mundial de Investigaciones de Economía del Desarrollo de la Universidad de las Naciones Unidas advierte de que las consecuencias económicas de <a href="https://www.wider.unu.edu/publication/estimates-impact-covid-19-global-poverty">la pandemia mundial podrían incrementar la pobreza en todo el mundo hasta llegar a afectar a 500&nbsp;millones de personas más</a>, o lo que es lo mismo, a un 8&nbsp;% más de la población total mundial. Esta sería la primera vez que la pobreza aumente en todo el mundo en 30&nbsp;años, desde 1990.</p> <p>Más de <a href="http://www.worldbank.org/en/news/press-release/2018/09/19/decline-of-global-extreme-poverty-continues-but-has-slowed-world-bank">700&nbsp;millones de personas</a>, o el 10&nbsp;% de la población mundial, aún vive en situación de extrema pobreza a día de hoy, con dificultades para satisfacer las necesidades más básicas, como la salud, la educación y el acceso a agua y saneamiento, por nombrar algunas. La mayoría de las personas que viven con menos de 1,90&nbsp;dólares al día viven en el África subsahariana. En todo el mundo, los <a href="https://unstats.un.org/sdgs/report/2019/goal-01/">índices de pobreza en las áreas rurales son del 17,2&nbsp;%</a>; más del triple de los mismos índices para las áreas urbanas.</p> <p>Para los que trabajan, su puesto de trabajo no les garantiza una vida digna. De hecho, <a href="https://unstats.un.org/sdgs/report/2019/goal-01/">el 8&nbsp;%</a> de los trabajadores de todo el mundo, y sus familias, vivían en situación de extrema pobreza en 2018. Uno de cada cinco niños vive en situación de extrema pobreza. Garantizar la protección social de todos los niños y otros grupos vulnerables resulta crucial para reducir la pobreza.</p>'
+        title: "Movilidad para todos"
+        title_in_two_lines: "Movilidad\npara todos"
+        description: "Hacia el logro de una movilidad para todos/as en Cantabria: movilidad inclusiva"
+        long_description: '<p>El sector del transporte se enfrenta a un cambio de paradigma situando al ciudadano y al usuario en el centro de todo el sistema.  
+
+La movilidad es entendida como un derecho de la ciudadanía y elemento imprescindible de la cohesión social.   
+
+Para ello se deberán introducir medidas para avanzar en la sostenibilidad del transporte y la movilidad, entendiendo la sostenibilidad desde la triple perspectiva: social, económica y medioambiental, y estableciendo medidas para fomentar una movilidad inclusiva para todos los colectivos y en todo el territorio. Todo ello aplicando el principio de transición justa, para que ningún colectivo, sector productivo o territorio se quede atrás. 
+
+Para el logro de una movilidad para todos/as las propuestas deben respetar los siguientes principios: 
+
+    Establecer soluciones de movilidad sostenibles, seguras, accesibles y razonables para todos los ciudadanos/as. 
+
+    Movilidad como un derecho de los ciudadanos y un elemento imprescindible de la cohesión social. 
+
+    Lograr la accesibilidad universal.  </p>'
         targets:
           target_1_1:
             title: "Para 2030, erradicar la pobreza extrema para todas las personas en el mundo, actualmente medida por un ingreso por persona inferior a 1,25 dólares al día."
