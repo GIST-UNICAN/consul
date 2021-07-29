@@ -226,7 +226,7 @@ es:
     header:
       administration_menu: Menú
       administration: Administración
-      collaborative_legislation: Laboratorio de ideas
+      collaborative_legislation: Laboratorios de ideas
       debates: Debates
       locale: "Idioma:"
       management: Gestión
@@ -246,7 +246,7 @@ es:
           other: Tienes %{count} notificaciones nuevas
           zero: "No tienes notificaciones nuevas"
         notifications: Notificaciones
-      sdg: "ODS"
+      sdg: "OMS"
   notifications:
     index:
       empty_notifications: No tienes notificaciones nuevas.
@@ -688,7 +688,7 @@ es:
       from: "Desde"
       general: "Con el texto"
       general_placeholder: "Escribe el texto"
-      goal: "Por ODS"
+      goal: "Por OMS"
       goal_blank: "Elige un objetivo"
       search: "Filtrar"
       target: "Por meta"

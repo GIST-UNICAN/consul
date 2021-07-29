@@ -130,8 +130,8 @@ es:
       dashboard:
         notification_emails: "Emails del panel de progreso"
         notification_emails_description: "Activar el envío de emails de notificaciones a los autores de las propuestas en la sección de panel de progreso"
-      sdg: ODS
-      sdg_description: Habilitar secciones relacionadas con Objetivos de Desarrollo Sostenible en el menú de administración y en la sección de Configuración Global.
+      sdg: OMS
+      sdg_description: Habilitar secciones relacionadas con Objetivos de movilidad Sostenible en el menú de administración y en la sección de Configuración Global.
     remote_census:
       general:
         endpoint: "Endpoint"
@@ -211,13 +211,13 @@ es:
         content_types_description: "Selecciona todos los tipos permitidos para los documentos subidos"
     sdg:
       process:
-        debates: Alineamiento ODS en debates
-        debates_description: Permitir alineamiento de los Objetivos de Desarrollo Sostenible en debates
-        proposals: Alineamiento ODS en propuestas
-        proposals_description: Permitir alineamiento de los Objetivos de Desarrollo Sostenible en propuestas
-        polls: Alineamiento ODS en votaciones
-        polls_description: Permitir alineamiento de los Objetivos de Desarrollo Sostenible en votaciones
-        budgets: Alineamiento ODS en presupuestos participativos
-        budgets_description: Permitir alineamiento de los Objetivos de Desarrollo Sostenible en presupuestos participativos
-        legislation: Alineamiento ODS en legislación colaborativa
-        legislation_description: Permitir alineamiento de los Objetivos de Desarrollo Sostenible en legislación colaborativa
+        debates: Alineamiento OMS en debates
+        debates_description: Permitir alineamiento de los Objetivos de movilidad Sostenible en debates
+        proposals: Alineamiento OMS en propuestas
+        proposals_description: Permitir alineamiento de los Objetivos de movilidad Sostenible en propuestas
+        polls: Alineamiento OMS en votaciones
+        polls_description: Permitir alineamiento de los Objetivos de movilidad Sostenible en votaciones
+        budgets: Alineamiento OMS en presupuestos participativos
+        budgets_description: Permitir alineamiento de los Objetivos de movilidad Sostenible en presupuestos participativos
+        legislation: Alineamiento OMS en legislación colaborativa
+        legislation_description: Permitir alineamiento de los Objetivos de movilidad Sostenible en legislación colaborativa
