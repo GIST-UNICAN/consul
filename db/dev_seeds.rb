@@ -26,6 +26,7 @@ require 'faker'
 I18n.reload!
 puts 'NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII'
 
+
 require_relative "dev_seeds/settings"
 require_relative "dev_seeds/geozones"
 require_relative "dev_seeds/users"
@@ -48,6 +49,7 @@ require_relative "dev_seeds/admin_notifications"
 require_relative "dev_seeds/legislation_proposals"
 require_relative "dev_seeds/milestones"
 require_relative "dev_seeds/pages"
+
 require_relative "dev_seeds/sdg"
 
 log "All dev seeds created successfuly 👍"
