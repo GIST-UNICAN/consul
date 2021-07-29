@@ -4,41 +4,87 @@
   <%= render "shared/canonical", href: root_url %>
 <% end %>
 
-<%= render Shared::BannerComponent.new("homepage") %>
+<!--<%= render Shared::BannerComponent.new("homepage") %>-->
 
-<% provide :social_media_meta_tags do %>
-  <%= render "shared/social_media_meta_tags",
-              social_url: root_url %>
-<% end %>
 
-<%= render "shared/header", header: @header %>
 
 <main>
-  <%= render "feeds" %>
+  <!--<%= render "feeds" %>-->
+
+  <div class="jumbo highlight">
+    <div class="row">
+      <div class="small-12 medium-6 column ">
+        <span></span>
+        <h1>Comparte tus ideas</h1>
+        <p class="">El Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA) quiere dar respuesta a los retos en movilidad y transporte que nos plantea el siglo XXI con una Estrategia de Movilidad Segura, Sostenible y Conectada.
+
+El MITMA es consciente de que no puede abordar esta tarea en solitario, sino que debe necesariamente contar con la sociedad en su conjunto. Para ello, la Estrategia de Movilidad contempla la realización de un ambicioso proceso de participación pública entre cuyas actuaciones se integra la creación de este espacio en el que invitamos a la ciudadanía a enviarnos sus opiniones y propuestas.</p>
+        <div class="small-12 medium-6 large-4 ">
+          <a class="button expanded large" href="/help">¿Quieres participar?</a>
+        </div>
+      </div>
+
+        <div class="small-12 medium-6 column">
+          <img class="margin" alt="portada.jpg" src="/esmovilidad/system/images/attachments/000/000/030/large/d1fee0342d02ec0bd399737d00ef0228002ee3ca.jpg">
+        </div>
+    </div>
+  </div>
 <div class="row">
-        <p>texto de prueba</p>
+  <div class="small-12 column ">
+        <h3 class="title">Participa</h3>
+        <div class="row" data-equalizer="" data-equalizer-on="medium" data-resize="b9h079-eq" data-mutate="4hta6g-eq" data-n="417812-n">
+    <div id="widget_card_6" class="card small-12 medium-6 column margin-bottom end" data-equalizer-watch="" style="height: 345px;">
+  <a href="/legislation/processes">
+    <figure class="figure-card">
+      <div class="gradient"></div>
+        <img alt="encuesta2.JPG" src="/esmovilidad/system/images/attachments/000/000/035/large/d1fee0342d02ec0bd399737d00ef0228002ee3ca.JPG">
+      <figcaption>
+        <br>
+        <h3>Ejes de movilidad</h3>
+      </figcaption>
+    </figure>
+    <p class="description">Accede a los ejes de movilidad. Participa en la creación de la estrategia de movilidad, nosotros te proponemos temas para que nos hagas llegar tu opinión y tus propuestas. ¡No dudes en participar!.</p>
+    <p>¡Haz click aquí para acceder a los ejes!</p>
+</a></div>
+
+    <div id="widget_card_7" class="card small-12 medium-6 column margin-bottom end" data-equalizer-watch="" style="height: 345px;">
+  <a href="/proposals">
+    <figure class="figure-card">
+      <div class="gradient"></div>
+        <img alt="Ideas_(1).jpg" src="/esmovilidad/system/images/attachments/000/000/034/large/d1fee0342d02ec0bd399737d00ef0228002ee3ca.jpg">
+      <figcaption>
+        <br>
+        <h3>Propuestas</h3>
+      </figcaption>
+    </figure>
+    <p class="description">En el Laboratorio de ideas te proponemos temas para que nos hagas llegar tu opinión y tus propuestas. ¡No dudes en participar!</p>
+    <p>¡Haz click aquí para acceder al laboratorio de ideas!</p>
+</a></div>
+</div>
+
+</div>
       </div>
   <div class="row">
 
     <% if @cards.any? %>
       <div class="small-12 column <%= "large-8" if feed_processes_enabled? %>">
-        <h2 class="title"><%= t("welcome.cards.title") %></h2>
+        <!--<h2 class="title"><%= t("welcome.cards.title") %></h2>-->
 
-        <%= render "shared/cards", cards: @cards %>
+        <!--<%= render "shared/cards", cards: @cards %>-->
       </div>
       
     <% end %>
 
     <% if feed_processes_enabled? %>
       <div class="small-12 large-4 column">
-        <%= render "processes" %>
+        <!--<<%= render "processes" %>-->
       </div>
     <% end %>
   </div>
 
   <% if feature?("user.recommendations") && (@recommended_debates.present? || @recommended_proposals.present?) %>
-    <%= render "recommended",
+   <!--< <%= render "recommended",
                 recommended_debates: @recommended_debates,
-                recommended_proposals: @recommended_proposals %>
+                recommended_proposals: @recommended_proposals %> -->
   <% end %>
 </main>
