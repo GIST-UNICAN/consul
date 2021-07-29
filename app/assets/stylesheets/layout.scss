@@ -637,6 +637,7 @@ body > header,
 .top-links {
   background: $dark;
   font-size: $small-font-size;
+  display: none;
 
   > :first-child {
     @include grid-column-gutter;
