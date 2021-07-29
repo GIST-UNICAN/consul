@@ -593,6 +593,7 @@ body > header,
       height: rem-calc(48);
       margin: 0;
       width: auto;
+      max-width: 500px;
 
       @include breakpoint(medium up) {
         height: auto;
