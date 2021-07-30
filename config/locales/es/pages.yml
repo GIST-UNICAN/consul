@@ -24,7 +24,7 @@ es:
         figcaption: 'Botones "Estoy de acuerdo" y "No estoy de acuerdo" para valorar los debates.'
       proposals:
         title: "Propuestas"
-        description: "En la sección de %{link} puedes plantear propuestas así como opinar sobre las elaboradas por el comité de expertos del Gobierno de Cantabria  para que sean estudiadas y en su caso llevadas a cabo. Las propuestas pueden ser votadas por los usuarios registrados"
+        description: "La sección de %{link} permite a los usuarios registrados presentar o apoyar propuestas, para que sean estudiadas y en su caso llevadas a cabo."
         link: "propuestas ciudadanas"
         image_alt: "Botón para apoyar una propuesta"
         figcaption: 'Botón para "Apoyar" una propuesta.'
@@ -41,10 +41,10 @@ es:
         feature_1: "Para participar en las votaciones tienes que %{link} y verificar tu cuenta."
         feature_1_link: "registrarte en %{org_name}"
       processes:
-        title: "Legislación colaborativa"
-        description: "En la sección de %{link} la ciudadanía participa en la elaboración y modificación de normativa que afecta a la ciudad y puede dar su opinión sobre las políticas municipales en debates previos."
+        title: "Ejes de movilidad"
+        description: "En la sección de %{link} la ciudadanía puede aportar su perspectiva sobre diferentes aspectos de la movilidad en Cantabria, organizados según 9 ejes."
         link: "legislación colaborativa"
-        feature: "Para participar en la legislación colaborativa tienes que %{link} y verificar tu cuenta."
+        feature: "Para participar en la discusión por ejes de movilidad, tienes que %{link} y verificar tu cuenta."
         feature_link: "registrarte en %{org_name}"
       faq:
         title: "¿Problemas técnicos?"
