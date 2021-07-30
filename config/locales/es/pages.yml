@@ -42,8 +42,8 @@ es:
         feature_1_link: "registrarte en %{org_name}"
       processes:
         title: "Ejes de movilidad"
-        description: "En la sección de %{link} la ciudadanía puede aportar su perspectiva sobre diferentes aspectos de la movilidad en Cantabria, organizados según 9 ejes."
-        link: "legislación colaborativa"
+        description: "En la sección de %{link} la ciudadanía puede aportar su perspectiva sobre diferentes aspectos de la movilidad en Cantabria, organizados según los 9 ejes de movilidad."
+        link: "ejes de movilidad"
         feature: "Para participar en la discusión por ejes de movilidad, tienes que %{link} y verificar tu cuenta."
         feature_link: "registrarte en %{org_name}"
       faq:
