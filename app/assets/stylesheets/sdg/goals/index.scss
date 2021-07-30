@@ -42,6 +42,7 @@
   .sdg-phase {
     @include grid-row;
     @include grid-column-gutter;
+    display: none;
 
     .cards-container {
       @include grid-row-nest;
