@@ -26,7 +26,7 @@ Por todo ello os invitamos a participar para que juntos podamos construir los pi
       </div>
 
         <div class="small-12 medium-6 column">
-          <img class="margin" alt="portada.jpg" src="/assets/budget_execution_no_image.jpg">
+          <%= image_tag(image_path_for("budget_execution_no_image.jpg"), class: "margin", alt: setting["org_name"]) %>
         </div>
     </div>
   </div>
@@ -38,7 +38,7 @@ Por todo ello os invitamos a participar para que juntos podamos construir los pi
   <a href="/legislation/processes">
     <figure class="figure-card">
       <div class="gradient"></div>
-        <img alt="encuesta2.JPG" src="/assets/logo_header.png">
+        <%= image_tag(image_path_for("logo_header.png"), class: "float-left", alt: setting["org_name"]) %>
       <figcaption>
         <br>
         <h3>Ejes de movilidad</h3>
@@ -52,7 +52,7 @@ Por todo ello os invitamos a participar para que juntos podamos construir los pi
   <a href="/proposals">
     <figure class="figure-card">
       <div class="gradient"></div>
-        <img alt="Ideas_(1).jpg" src="/assets/logo_header.png">
+      <%= image_tag(image_path_for("logo_header.png"), class: "float-left", alt: setting["org_name"]) %>
       <figcaption>
         <br>
         <h3>Propuestas</h3>

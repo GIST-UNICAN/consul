@@ -6,7 +6,7 @@
 
 <div class="row">
   <div id="legislation" class="legislation-list small-12 medium-12 column">
-    <img class="margin" alt="portada.jpg" src="/assets/ejes.png">
+    <%= image_tag(image_path_for("ejes.png"), class: "margin", alt: setting["org_name"]) %>
     <%= render "shared/filter_subnav", i18n_namespace: "legislation.processes.index" %>
 
     <div id="legislation-list">
