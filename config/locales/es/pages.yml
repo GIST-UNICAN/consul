@@ -24,7 +24,7 @@ es:
         figcaption: 'Botones "Estoy de acuerdo" y "No estoy de acuerdo" para valorar los debates.'
       proposals:
         title: "Propuestas"
-        description: "En la sección de %{link} puedes plantear propuestas para que el Ayuntamiento las lleve a cabo. Las propuestas recaban apoyos, y si alcanzan los apoyos suficientes se someten a votación ciudadana. Las propuestas aprobadas en estas votaciones ciudadanas son asumidas por el Ayuntamiento y se llevan a cabo."
+        description: "En la sección de %{link} puedes plantear propuestas así como opinar sobre las elaboradas por el comité de expertos del Gobierno de Cantabria  para que sean estudiadas y en su caso llevadas a cabo. Las propuestas pueden ser votadas por los usuarios registrados"
         link: "propuestas ciudadanas"
         image_alt: "Botón para apoyar una propuesta"
         figcaption: 'Botón para "Apoyar" una propuesta.'
