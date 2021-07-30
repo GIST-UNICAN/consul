@@ -5,8 +5,18 @@
   </span>
 </div>
 
+<div>
+</div>
+
 <span class="total-supports">
-  <%= t("proposals.proposal.supports", count: proposal.total_votes) %>&nbsp;
+  <% if (proposal.total_votes < 90000000) %>
+    <p class="total-supports"><%= t("proposals.proposal.supports", count: proposal.total_votes) %> </p>
+  <% else  %>
+    <p class="total-supports"> PROPUESTA DEL COMITÉ TÉCNICO </p>
+    <p class="total-supports"> <%= (proposal.total_votes) -90000000 %> apoyos</p>
+  <% end %>
+
+  &nbsp;
   <span>
     <abbr title="<%= t("proposals.proposal.reason_for_supports_necessary") %>">
       <%= t("proposals.proposal.supports_necessary",
