@@ -4,20 +4,8 @@ es:
       goal_1:
         title: "Movilidad para todos"
         title_in_two_lines: "Movilidad\npara todos"
-        description: "Hacia el logro de una movilidad para todos/as en Cantabria: movilidad inclusiva"
-        long_description: '<p>El sector del transporte se enfrenta a un cambio de paradigma situando al ciudadano y al usuario en el centro de todo el sistema.  
-
-La movilidad es entendida como un derecho de la ciudadanía y elemento imprescindible de la cohesión social.   
-
-Para ello se deberán introducir medidas para avanzar en la sostenibilidad del transporte y la movilidad, entendiendo la sostenibilidad desde la triple perspectiva: social, económica y medioambiental, y estableciendo medidas para fomentar una movilidad inclusiva para todos los colectivos y en todo el territorio. Todo ello aplicando el principio de transición justa, para que ningún colectivo, sector productivo o territorio se quede atrás. 
-
-Para el logro de una movilidad para todos/as las propuestas deben respetar los siguientes principios: 
-
-    Establecer soluciones de movilidad sostenibles, seguras, accesibles y razonables para todos los ciudadanos/as. 
-
-    Movilidad como un derecho de los ciudadanos y un elemento imprescindible de la cohesión social. 
-
-    Lograr la accesibilidad universal.  </p>'
+        description: "Hacia el logro de una movilidad para todos/as en Cantabria: movilidad inclusiva."
+        long_description: '<p>La movilidad es un derecho de la ciudadanía y un elemento imprescindible de cohesión social y territorial. Por ello deben introducirse medidas sostenibles desde una perspectiva social, económica y medioambiental, que garanticen una movilidad inclusiva y el logro de la accesibilidad universal. </p>'
         targets:
           target_1_1:
             title: "Para 2030, erradicar la pobreza extrema para todas las personas en el mundo, actualmente medida por un ingreso por persona inferior a 1,25 dólares al día."
@@ -34,10 +22,17 @@ Para el logro de una movilidad para todos/as las propuestas deben respetar los s
           target_1_B:
             title: "Crear marcos normativos sólidos en el ámbito nacional, regional e internacional, sobre la base de estrategias de desarrollo en favor de los pobres que tengan en cuenta las cuestiones de género, a fin de apoyar la inversión acelerada en medidas para erradicar la pobreza."
       goal_2:
-        title: "Hambre Cero"
-        title_in_two_lines: "Hambre\nCero"
-        description: "Poner fin al hambre."
-        long_description: '<p>Tras décadas de una disminución constante, el número de personas que padecen hambre (medido por la prevalencia de desnutrición) comenzó a aumentar lentamente de nuevo en 2015. Las estimaciones actuales indican que cerca de <a href="http://www.fao.org/3/ca9699es/CA9699ES.pdf">690 millones de personas en el mundo padecen hambre</a>, es decir, el 8,9 por ciento de la población mundial, lo que supone un aumento de unos 10 millones de personas en un año y de unos 60 millones en cinco años.</p> <p>El mundo no está bien encaminado para alcanzar el objetivo de hambre cero para 2030. Si continúan las tendencias recientes, el número de personas afectadas por el hambre superará los 840 millones de personas para 2030.</p> <p>Según el Programa Mundial de Alimentos, alrededor de <a href="https://www.wfp.org/publications/2020-global-report-food-crises">135&nbsp;millones de personas padecen hambre severa</a> <img src="https://www.un.org/common/images/icons/ico_en.gif" alt="Disponible en inglés" width="14" height="14" style="border:none">, debido principalmente a los conflictos causados por los seres humanos, el cambio climático y las recesiones económicas. La pandemia de COVID-19 podría duplicar ahora esa cifra y sumar unos 130&nbsp;millones de personas más que estarían en riesgo de padecer hambre severa a finales de 2020.</p> <p>Con más de <a href="https://insight.wfp.org/covid-19-will-almost-double-people-in-acute-hunger-by-end-of-2020-59df0c4a8072">250&nbsp;millones de personas que podrían encontrarse al borde de la hambruna</a> <img src="https://www.un.org/common/images/icons/ico_en.gif" alt="Disponible en inglés" width="14" height="14" style="border:none">, es necesario actuar rápidamente para proporcionar alimentos y ayuda humanitaria a las regiones que corren más riesgos.</p> <p>Al mismo tiempo, es necesario llevar a cabo un cambio profundo en el sistema agroalimentario mundial si queremos alimentar a más de 820&nbsp;millones de personas que padecen hambre y a los <a href="https://www.un.org/development/desa/en/news/population/world-population-prospects-2019.html">2000&nbsp;millones de personas más</a> que vivirán en el mundo en 2050. El aumento de la productividad agrícola y la producción alimentaria sostenible son cruciales para ayudar a aliviar los riesgos del hambre.</p>'
+        title: "Inversiones sostenibles"
+        title_in_two_lines: "Priorizando las\ninversiones sostenibles"
+        description: "Priorizando las inversiones sostenibles."
+        long_description: '<p>El elevado impacto medioambiental y presupuestario de las infraestructuras de transporte obliga actualmente a ser muy selectivos. Esto se traduce en la necesidad de establecer una planificación rigurosa y al establecimiento de una priorización dirigiendo los fondos a aquellos proyectos que generen un mayor retorno social.</p>
+
+<p>Para ello, los principios básicos en los que se deben sustentar vuestras propuestas son:</p>
+<ul>
+<li>Cambio de paradigma de inversión en infraestructuras por inversión en movilidad.</li>
+<li>Eficiencia de los recursos limitados.</li>
+<li>Priorización de la seguridad, conservación y mantenimiento, movilidad cotidiana, intermodalidad y tecnificación.</li>
+</ul>'
         targets:
           target_2_1:
             title: "Para 2030, poner fin al hambre y asegurar el acceso de todas las personas, en particular los pobres y las personas en situaciones vulnerables, incluidos los lactantes, a una alimentación sana, nutritiva y suficiente durante todo el año."
@@ -56,10 +51,16 @@ Para el logro de una movilidad para todos/as las propuestas deben respetar los s
           target_2_C:
             title: "Adoptar medidas para asegurar el buen funcionamiento de los mercados de productos básicos alimentarios y sus derivados y facilitar el acceso oportuno a información sobre los mercados, en particular sobre las reservas de alimentos, a fin de ayudar a limitar la extrema volatilidad de los precios de los alimentos."
       goal_3:
-        title: "Salud y Bienestar"
-        title_in_two_lines: "Salud\ny Bienestar"
-        description: "Garantizar una vida sana y promover el bienestar para todos en todas las edades."
-        long_description: '<p>Garantizar una vida sana y promover el bienestar en todas las edades es esencial para el desarrollo sostenible.</p> <p>Actualmente, el mundo se enfrenta a una <a href="https://www.un.org/coronavirus">crisis sanitaria mundial</a> sin precedentes; la COVID-19 está propagando el sufrimiento humano, desestabilizando la economía mundial y cambiando drásticamente las vidas de miles de millones de personas en todo el mundo.</p> <p>Antes de la pandemia, se consiguieron grandes avances en <a href="https://unstats.un.org/sdgs/report/2019/goal-03/">la mejora de la salud de millones de personas</a>. En concreto, estos grandes avances se alcanzaron al aumentar la esperanza de vida y reducir algunas de las causas de muerte comunes asociadas con la mortalidad infantil y materna. Sin embargo, se necesitan más esfuerzos para erradicar por completo una gran variedad de enfermedades y abordar un gran número de problemas de salud, tanto constantes como emergentes. A través de una financiación más eficiente de los sistemas sanitarios, un mayor saneamiento e higiene, y un mayor acceso al personal médico, se podrán conseguir avances significativos a la hora de ayudar a salvar las vidas de millones de personas.</p> <p>Las emergencias sanitarias, como la derivada de la COVID-19, suponen un riesgo mundial y han demostrado que la preparación es vital. El Programa de las Naciones Unidas para el Desarrollo señaló las grandes diferencias relativas a las <a href="https://www.undp.org/content/undp/en/home/news-centre/news/2020/COVID19_UNDP_data_dashboards_reveal_disparities_among_countries_to_cope_and_recover.html">capacidades de los países para lidiar con la crisis de la COVID-19 y recuperarse de ella</a>. La pandemia constituye un punto de inflexión en lo referente a la preparación para las emergencias sanitarias y la inversión en servicios públicos vitales del siglo XXI.</p>'
+        title: "Desplazamientos seguros"
+        title_in_two_lines: "Desplazamientos\nseguros"
+        description: "Desplazamientos seguros para todos/as en Cantabria."
+        long_description: '<p>La seguridad en el transporte supone reducir al máximo cualquier tipo de daño a las personas y bienes cualquiera que sea el modo e infraestructura de transporte que se utilice.</p>
+        
+<p>Las líneas de actuación en este sentido deben ir encaminadas a reforzar la inversión en organizaciones de supervisión y control, vigilancia frente a actos ilícitos y políticas de gestión en caso de emergencias y crisis.</p>
+
+<p>Conceptos como la innovación en materia de seguridad y el refuerzo de la ciberseguridad, tomarán un papel primordial debido al proceso de digitalización del transporte.</p>
+
+<p>También adquiere importancia la seguridad sanitaria motivada por la pandemia del COVID-19.</p>'
         targets:
           target_3_1:
             title: "Para 2030, reducir la tasa mundial de mortalidad materna a menos de 70 por cada 100.000 nacidos vivos."
@@ -88,10 +89,12 @@ Para el logro de una movilidad para todos/as las propuestas deben respetar los s
           target_3_D:
             title: "Reforzar la capacidad de todos los países, en particular los países en desarrollo, en materia de alerta temprana, reducción de riesgos y gestión de los riesgos para la salud nacional y mundial."
       goal_4:
-        title: "Educación de Calidad"
-        title_in_two_lines: "Educación\nde Calidad"
-        description: "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos."
-        long_description: '<p>La educación permite la movilidad socioeconómica ascendente y es clave para salir de la pobreza. Durante la última década, se consiguieron grandes avances a la hora de ampliar el acceso a la educación y las tasas de matriculación en las escuelas en todos los niveles, especialmente para las niñas. No obstante, <a href="http://uis.unesco.org/en/topic/out-school-children-and-youth">alrededor de 260&nbsp;millones de niños aún estaban fuera de la escuela</a> en 2018; cerca de una quinta parte de la población mundial de ese grupo de edad. Además, más de la mitad de todos los niños y adolescentes de todo el mundo <a href="https://unstats.un.org/sdgs/report/2019/goal-04/">no están alcanzando los estándares mínimos de competencia</a> en lectura y matemáticas.</p> <p>En 2020, a medida que la pandemia de la COVID-19 se propagaba por todo el planeta, la mayor parte de los países anunciaron el cierre temporal de las escuelas, lo que afectó a más del 91&nbsp;% de los estudiantes en todo el mundo. En abril de 2020, cerca de <a href="https://en.unesco.org/covid19/educationresponse">1600&nbsp;millones de niños y jóvenes estaban fuera de la escuela</a>. Igualmente, cerca de <a href="https://www.un.org/sites/un2.un.org/files/policy_brief_on_covid_impact_on_children_16_april_2020.pdf">369&nbsp;millones de niños que dependen de los comedores escolares</a> tuvieron que buscar otras fuentes de nutrición diaria.</p> <p>Nunca antes habían estado tantos niños fuera de la escuela al mismo tiempo, lo que altera su aprendizaje y cambia drásticamente sus vidas, especialmente las de los niños más vulnerables y marginados. La pandemia mundial tiene graves consecuencias que pueden poner en peligro los avances que tanto costaron conseguir a la hora de mejorar la educación a nivel mundial.</p>'
+        title: "Desplazamientos sin emisiones"
+        title_in_two_lines: "Desplazamientos\nsin emisiones"
+        description: ""
+        long_description: '<p>A escala global actualmente se están experimentando niveles de contaminación nunca alcanzados hasta la fecha. Dentro de los contaminantes a largo plazo (que son los que contribuyen al cambio climático) la emisión más importante del sector transporte es el dióxido de carbono (CO2) que tiene una cuota del 99% en las emisiones de gases de efecto invernadero (GEI) totales del sector.</p>
+
+<p>En este sentido, una de las medidas que más relevancia tiene en la reducción de la contaminación es la MEJORA DEL TRANSPORTE.</p>'
         targets:
           target_4_1:
             title: "De aquí a 2030, asegurar que todas las niñas y todos los niños terminen la enseñanza primaria y secundaria, que ha de ser gratuita, equitativa y de calidad y producir resultados de aprendizaje pertinentes y efectivos."
@@ -114,10 +117,10 @@ Para el logro de una movilidad para todos/as las propuestas deben respetar los s
           target_4_C:
             title: "De aquí a 2030, aumentar considerablemente la oferta de docentes calificados, incluso mediante la cooperación internacional para la formación de docentes en los países en desarrollo, especialmente los países menos adelantados y los pequeños Estados insulares en desarrollo."
       goal_5:
-        title: "Igualdad de Género"
-        title_in_two_lines: "Igualdad\nde Género"
-        description: "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y las niñas."
-        long_description: '<p>La igualdad de género no solo es un derecho humano fundamental, sino que es uno de los fundamentos esenciales para construir un mundo pacífico, próspero y sostenible.</p> <p>Se han conseguido algunos <a href="https://www.unwomen.org/-/media/headquarters/attachments/sections/library/publications/2020/gender-equality-womens-rights-in-review-key-facts-and-figures-en.pdf?la=en&amp;vs=935">avances</a> durante las últimas décadas: más niñas están escolarizadas, y se obliga a menos niñas al matrimonio precoz; hay más mujeres con cargos en parlamentos y en posiciones de liderazgo, y las leyes se están reformando para fomentar la igualdad de género.</p> <p>A pesar de estos logros, todavía existen muchas <a href="https://www.unwomen.org/-/media/headquarters/attachments/sections/library/publications/2020/gender-equality-womens-rights-in-review-key-facts-and-figures-en.pdf?la=en&amp;vs=935">dificultades</a>: las leyes y las normas sociales discriminatorias continúan siendo generalizadas, las mujeres siguen estando infrarrepresentadas a todos los niveles de liderazgo político, y 1 de cada 5&nbsp;mujeres y niñas de entre 15 y 49&nbsp;años afirma haber sufrido violencia sexual o física a manos de una pareja íntima en un período de 12&nbsp;meses.</p> <p>Los efectos de <a href="https://www.un.org/sites/un2.un.org/files/policy_brief_on_covid_impact_on_women_9_apr_2020_updated.pdf">la pandemia de la COVID-19 podrían revertir los escasos logros</a> que se han alcanzado en materia de igualdad de género y derechos de las mujeres.&nbsp; El brote de coronavirus <a href="https://www.unfpa.org/sites/default/files/resource-pdf/COVID-19_A_Gender_Lens_Guidance_Note.pdf">agrava las desigualdades existentes</a> para las mujeres y niñas a nivel mundial; desde la salud y la economía, hasta la seguridad y la protección social.</p> <p>Las mujeres desempeñan un papel desproporcionado en la respuesta al virus, incluso como trabajadoras sanitarias en primera línea y como cuidadoras en el hogar. El trabajo de cuidados no remunerado de las mujeres ha aumentado de manera significativa como consecuencia del cierre de las escuelas y el aumento de las necesidades de los ancianos. Las mujeres también se ven más afectadas por los efectos económicos de la COVID-19, ya que trabajan, de manera desproporcionada, en mercados laborales inseguros. Cerca del 60&nbsp;% de las mujeres trabaja en la economía informal, lo que las expone aún más a caer en la pobreza.</p> <p>La pandemia también ha conducido a un fuerte aumento de la <a href="https://www.unwomen.org/-/media/headquarters/attachments/sections/library/publications/2020/issue-brief-covid-19-and-ending-violence-against-women-and-girls-en.pdf?la=en&amp;vs=5006">violencia contra las mujeres y las niñas</a>. Con las medidas de confinamiento en vigor, muchas mujeres se encuentran atrapadas en casa con sus abusadores, con dificultades para acceder a servicios que están padeciendo recortes y restricciones. Los nuevos datos muestran que, desde el brote de la pandemia, la violencia contra las mujeres y las niñas (y, especialmente, la violencia doméstica) se ha intensificado.</p>'
+        title: "La movilidad del futuro "
+        title_in_two_lines: "La movilidad\ndel futuro"
+        description: "La movilidad del futuro ¿cómo será la nueva movilidad?"
+        long_description: '<p>Las distintas Administraciones públicas deben aprovechar la oportunidad que brinda la TRANSFORMACIÓN DIGITAL y explorar el uso de la tecnología como herramienta para resolver los grandes retos de movilidad a corto y medio plazo (eficiencia, sostenibilidad, seguridad).</p>'
         targets:
           target_5_1:
             title: "Poner fin a todas las formas de discriminación contra todas las mujeres y las niñas en todo el mundo."
@@ -138,10 +141,26 @@ Para el logro de una movilidad para todos/as las propuestas deben respetar los s
           target_5_C:
             title: "Aprobar y fortalecer políticas acertadas y leyes aplicables para promover la igualdad de género y el empoderamiento de todas las mujeres y las niñas a todos los niveles."
       goal_6:
-        title: "Agua Limpia y Saneamiento"
-        title_in_two_lines: "Agua Limpia\ny Saneamiento"
-        description: "Garantizar la disponibilidad de agua y su gestión sostenible y el saneamiento para todos."
-        long_description: '<p>Si bien se ha conseguido progresar de manera sustancial a la hora de ampliar el acceso a agua potable y saneamiento, existen miles de millones de personas (principalmente en áreas rurales) que aún carecen de estos servicios básicos. En todo el mundo, <a href="https://www.who.int/news-room/detail/18-06-2019-1-in-3-people-globally-do-not-have-access-to-safe-drinking-water-unicef-who">una de cada tres personas no tiene acceso a agua potable salubre</a>, <a href="https://www.unwater.org/water-facts/water-sanitation-and-hygiene/">dos de cada cinco personas no disponen de una instalación básica destinada a lavarse las manos</a> con agua y jabón, y más de <a href="https://news.un.org/en/story/2019/11/1051561">673&nbsp;millones de personas aún defecan al aire libre</a>.</p> <p>La pandemia de la COVID-19 ha puesto de manifiesto la importancia vital del saneamiento, la higiene y un acceso adecuado a agua limpia para prevenir y contener las enfermedades. <a href="https://www.unwater.org/water-facts/handhygiene/">La higiene de manos salva vidas</a>. De acuerdo con la Organización Mundial de la Salud, <a href="https://www.who.int/news-room/events/detail/2020/05/05/default-calendar/hand-hygiene-day">el lavado de manos es una de las acciones más efectivas que se pueden llevar a cabo</a> para reducir la propagación de patógenos y prevenir infecciones, incluido el virus de la COVID-19. Aun así, hay miles de millones de personas que carecen de acceso a agua salubre y saneamiento, y los fondos son insuficientes.</p>'
+        title: "Cadenas logísticas intermodales"
+        title_in_two_lines: "Cadenas logísticas\nintermodales "
+        description: "Cadenas logísticas intermodales."
+        long_description: '<p>En la economía moderna, las actividades productivas se organizan en cadenas de suministro. Las mismas comprenden al conjunto de actividades que abarca desde el diseño de un producto o servicio, hasta su entrega o prestación a los consumidores finales. Dichas actividades son llevadas a cabo por diferentes actores, incluyendo a proveedores de insumos y servicios, fabricantes, transportistas y prestadores de servicios logísticos, distribuidores mayoristas y minoristas y clientes finales.</p>
+
+        <p>Las nuevas tecnologías digitales, como el Internet de las Cosas, la robótica y la inteligencia artificial, prometen generar mejoras sin precedentes en la articulación y desempeño de las cadenas de suministro, bajo el paraguas de la INTERMODALIDAD.</p>
+
+<h3>CORREDORES LOGÍSTICOS INTELIGENTES</h3>
+<p>Para mejorar el desempeño logístico del país, se ha desarrollado una hoja de ruta que mira a incrementar la digitalización de las cadenas logísticas en el país. Esta hoja de ruta incluye una mayor dotación de infraestructura de telecomunicaciones y la actualización del diagnóstico de la infraestructura de transporte con la inclusión de herramientas digitales para su planificación y gestión; la promoción del comercio electrónico y del ecosistema online de procesos logísticos y de comercialización; la gestión inteligente de flotas de transporte; y la adopción de nuevas tecnologías para una logística más sostenible.</p>
+
+ <img src="/assets/nodos_logisticos.jpg" alt="nodos logísticos">
+ 
+<h3>¿Cómo mejorar el reparto de paquetes y mercancías en los núcleos urbanos de Cantabria? (Distribución Urbana de Mercancías - DUM)</h3>
+        <p>La distribución urbana de mercancías (DUM) cada vez está más presente en nuestras vidas y supone un impacto cada vez mayor en la movilidad de nuestras ciudades y núcleos urbanos.<p>
+<h4>EN QUÉ CONSISTE</h4>
+<p>La distribución urbana de mercancías (DUM), o de última milla, cubre el tramo entre el último lugar de almacenaje de un producto (centro de distribución) y el punto de entrega al consumidor final o al comercio minorista.</p>
+<p>Al mismo tiempo, ha de convivir y compartir el viario público con los vehículos destinados al transporte de viajeros y, dado su volumen, afecta de manera relevante al tráfico y a la circulación en la ciudad.</p>
+<p>En los últimos años, los nuevos hábitos de consumo derivados del comercio electrónico han supuesto un crecimiento importante de la actividad económica, en general, y del reparto de mercancías en particular.</p>
+<p>Esta evolución implica sobre todo un aumento de la congestión urbana, de la contaminación y del ruido en las ciudades.</p>
+<p>La digitalización y las nuevas tecnologías permiten diseñar nuevas soluciones para que el transporte urbano de mercancías sea más sostenible.</p>'
         targets:
           target_6_1:
             title: "De aquí a 2030, lograr el acceso universal y equitativo al agua potable a un precio asequible para todos."
@@ -160,10 +179,10 @@ Para el logro de una movilidad para todos/as las propuestas deben respetar los s
           target_6_B:
             title: "Apoyar y fortalecer la participación de las comunidades locales en la mejora de la gestión del agua y el saneamiento."
       goal_7:
-        title: "Energía Asequible y No Contaminante"
-        title_in_two_lines: "Energía Sostenible\ny No Contaminante"
-        description: "Garantizar el acceso a una energía asequible, segura, sostenible y moderna."
-        long_description: '<p>El mundo está <a href="https://unstats.un.org/sdgs/report/2019/goal-07/">avanzando hacia la consecución del Objetivo 7</a> con indicios alentadores de que la energía se está volviendo más sostenible y ampliamente disponible. El acceso a la electricidad en los países más pobres ha comenzado a acelerarse, la eficiencia energética continúa mejorando y la energía renovable está logrando resultados excelentes en el sector eléctrico.</p> <p>A pesar de ello, es necesario prestar una mayor atención a las mejoras para el acceso a combustibles de cocina limpios y seguros, y a tecnologías para 3000&nbsp;millones de personas, para expandir el uso de la energía renovable más allá del sector eléctrico e incrementar la electrificación en el África subsahariana.</p> <p>El <a href="https://trackingsdg7.esmap.org/">informe de progreso en materia de energía</a> proporciona un registro mundial del progreso relativo al acceso a la energía, la eficiencia energética y la energía renovable. Evalúa el progreso conseguido por cada país en estos tres pilares y ofrece una panorámica del camino que nos queda por recorrer para conseguir las metas de los Objetivos de Desarrollo Sostenible 2030.</p>'
+        title: "Conectando Europa y conectados al mundo"
+        title_in_two_lines: "Conectando Europa\ny conectados al mundo "
+        description: "Conectando Europa y conectados al mundo en la comunidad autónoma de Cantabria."
+        long_description: '<p>Referido al proceso de creación de un espacio ferroviario europeo único y a la liberalización de los servicios ferroviarios en España. Esta entrada es una recopilación de la normativa aplicable. Para estimular la competitividad del sector ferroviario europeo, la Comisión Europea ha adoptado una estrategia encaminada a “fomentar el desarrollo de una infraestructura ferroviaria eficaz, establecer un mercado ferroviario abierto, suprimir los obstáculos administrativos y técnicos y garantizar condiciones de competencia equitativas frente a los demás modos de transporte.</p>'
         targets:
           target_7_1:
             title: "De aquí a 2030, garantizar el acceso universal a servicios energéticos asequibles, fiables y modernos."
@@ -176,10 +195,13 @@ Para el logro de una movilidad para todos/as las propuestas deben respetar los s
           target_7_B:
             title: "De aquí a 2030, ampliar la infraestructura y mejorar la tecnología para prestar servicios energéticos modernos y sostenibles para todos en los países en desarrollo, en particular los países menos adelantados, los pequeños Estados insulares en desarrollo y los países en desarrollo sin litoral, en consonancia con sus respectivos programas de apoyo."
       goal_8:
-        title: "Trabajo Decente y Crecimiento Económico"
-        title_in_two_lines: "Trabajo Decente\ny Crecimiento Económico"
-        description: "Promover el crecimiento económico inclusivo y sostenible, el empleo y el trabajo decente para todos."
-        long_description: '<p>Un crecimiento económico inclusivo y sostenido puede impulsar el progreso, crear empleos decentes para todos y mejorar los estándares de vida.</p> <p>La COVID-19 ha <a href="https://www.un.org/sites/un2.un.org/files/sg_report_socio-economic_impact_of_covid19.pdf">alterado miles de millones de vidas</a> y ha puesto en peligro la economía mundial. El Fondo Monetario Internacional (FMI) prevé una <a href="https://blogs.imf.org/2020/04/14/the-great-lockdown-worst-economic-downturn-since-the-great-depression/">recesión mundial</a> tan mala o peor que la de 2009. A medida que se intensifica la pérdida de empleo, la Organización Internacional del Trabajo estima que <a href="https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_743036/lang--en/index.htm">cerca de la mitad de todos los trabajadores a nivel mundial se encuentra en riesgo</a> de perder sus medios de subsistencia.</p> <p><a href="https://developmentfinance.un.org/press-release-financing-sustainable-development-report-2020">Incluso antes del brote de la COVID-19</a>, era probable que uno de cada cinco países (en donde habitan miles de millones de personas que viven en situación de pobreza) vieran sus ingresos per cápita estancarse o reducirse en 2020. A día de hoy, las <a href="https://developmentfinance.un.org/press-release-financing-sustainable-development-report-2020">perturbaciones económicas y financieras</a> derivadas de la COVID-19 (como las alteraciones en la producción industrial, la caída de los precios de los productos básicos, la volatilidad del mercado financiero y el aumento de la inseguridad) están desbaratando el ya de por sí tibio crecimiento económico y empeorando los riesgos acentuados de otros factores.</p>'
+        title: "Aspectos sociales y laborales"
+        title_in_two_lines: "Aspectos sociales\ny laborales"
+        description: "Aspectos sociales y laborales en la comunidad autónoma de Cantabria."
+        long_description: '<p>Fomentando el transporte público y colectivo como columna vertebral de la movilidad en España y evitar derivar hacia la utilización masiva del vehículo privado, para evitar dar pasos atrás en movilidad sostenible.</p>
+        <p>La COVID-19 ha supuesto también la aceleración y consolidación de ciertos hábitos de movilidad que ya se venían produciendo. Así, tendencias como el teletrabajo o el e-commerce (que afecta a la logística, sobre todo en las ciudades) han crecido de forma masiva, y continuarán en cierto grado cuando se supere la pandemia. También se ha producido un aumento de la movilidad saludable (bicicleta, trayectos a pie). Esta crisis, por tanto, ha acelerado la necesidad de una transición digital, de una movilidad descarbonizada y de la micromovilidad, y ha puesto de manifiesto la necesidad de abordar la seguridad en los transportes desde una perspectiva también sanitaria.</p>
+        <p>¿Cómo crees que debería de adaptarse el sistema de movilidad a la nueva realidad de desplazamientos en el momento actual?</p>
+        <p>Los cambios en la demanda y la transformación de las tendencias en materia de movilidad (auge del teletrabajo, comercio electrónico, ocio en casa…).</p>'
         targets:
           target_8_1:
             title: "Mantener el crecimiento económico per capita de conformidad con las circunstancias nacionales y, en particular, un crecimiento del producto interno bruto de al menos el 7% anual en los países menos adelantados."
@@ -206,10 +228,18 @@ Para el logro de una movilidad para todos/as las propuestas deben respetar los s
           target_8_B:
             title: "De aquí a 2020, desarrollar y poner en marcha una estrategia mundial para el empleo de los jóvenes y aplicar el Pacto Mundial para el Empleo de la Organización Internacional del Trabajo."
       goal_9:
-        title: "Industria, Innovación e Infraestructuras"
-        title_in_two_lines: "Industria, Innovación\ne Infraestructuras"
-        description: "Construir infraestructuras resilientes, promover la industrialización sostenible y fomentar la innovación."
-        long_description: '<p>La industrialización inclusiva y sostenible, junto con la <a href="https://unstats.un.org/sdgs/report/2019/goal-09/">innovación y la infraestructura</a>, pueden dar rienda suelta a las fuerzas económicas dinámicas y competitivas que generan el empleo y los ingresos. Estas desempeñan un papel clave a la hora de introducir y promover nuevas tecnologías, facilitar el comercio internacional y permitir el uso eficiente de los recursos.</p> <p>Sin embargo, todavía queda un largo camino que recorrer para que el mundo pueda aprovechar al máximo este potencial. En especial, los países menos desarrollados necesitan acelerar el desarrollo de sus sectores manufactureros si desean conseguir la meta de 2030 y aumentar la inversión en investigación e innovación científicas.</p> <p>El crecimiento del sector manufacturero a nivel mundial ha ido disminuyendo constantemente, incluso antes del brote de la pandemia de la COVID-19. La pandemia está <a href="https://unctad.org/en/pages/newsdetails.aspx?OriginalVersionID=2297">afectando gravemente a las industrias manufactureras</a> y está provocando alteraciones en las cadenas de valor mundiales y en el suministro de productos.</p> <p>La innovación y el progreso tecnológico son claves para descubrir soluciones duraderas para los desafíos económicos y medioambientales, como el aumento de la eficiencia energética y de recursos. A nivel mundial, <a href="https://sustainabledevelopment.un.org/content/documents/26158Final_SG_SDG_Progress_Report_14052020.pdf">la inversión en investigación y desarrollo</a> (I+D), como porcentaje del PIB, aumentó de un 1,5&nbsp;% en el 2000 a un 1,7&nbsp;% en el 2015, y continuó casi en el mismo nivel en el 2017. Sin embargo, en las regiones en desarrollo fue inferior al 1&nbsp;%.</p> <p>En términos de infraestructura de comunicaciones, más de la mitad de la población mundial está ahora conectada y casi toda la población global vive en un área con cobertura de red móvil. Se estima que, en 2019, <a href="https://sustainabledevelopment.un.org/content/documents/26158Final_SG_SDG_Progress_Report_14052020.pdf">el 96,5&nbsp;% de la población tenía cobertura de red, como mínimo, 2G</a>.</p>'
+        title: "Evolución y transformación institucional"
+        title_in_two_lines: "Evolución y transformación\ninstitucional "
+        description: "Evolución y transformación institucional en la comunidad autónoma de Cantabria."
+        long_description: '<p>¿Qué aspectos crees que deben de mejorarse o modificarse en las distintas administraciones (locales, regionales) para que esta situación repercuta en un beneficio en la movilidad de la ciudadanía?</p>
+        <p>Para poder establecer una estrategia de movilidad eficaz a nivel regional, donde todos y todas tengamos, en cualquier localidad de la CA de Cantabria las mismas oportunidades y fortalezas en nuestros desplazamientos cotidianos, es necesario que se establezcan instrumentos de gobernanza entre los distintos niveles administrativos.</p>
+        <p>Por ejemplo:</p>
+<ul>
+<li>Una tarjeta única regional de transporte.</li>
+<li>Enlazar y/o mejorar CONCESIONES de las líneas de transporte público para optimizar el transporte en autobús.</li>
+<li>Coordinación interadministrativa en materia de transporte entre las distintas administraciones (Administración Local, Autonómica y Estatal), con el objetivo de crear un SISTEMA DE MOVILIDAD INTEGRAL que cubra áreas, frecuencias, enlace horarios, etc. facilitando la intermodalidad y movilidad de la ciudadanía</li>
+<li>Simplificación de trámites burocráticos a la ciudadanía.</li>
+</ul>'
         targets:
           target_9_1:
             title: "Desarrollar infraestructuras fiables, sostenibles, resilientes y de calidad, incluidas infraestructuras regionales y transfronterizas, para apoyar el desarrollo económico y el bienestar humano, haciendo especial hincapié en el acceso asequible y equitativo para todos."
