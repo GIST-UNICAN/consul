@@ -873,6 +873,9 @@ footer {
 .sidebar-links a {
   @extend %tag;
 }
+#tag-cloud{
+  display: none;
+}
 
 .categories a,
 .geozone a {
