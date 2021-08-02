@@ -99,6 +99,13 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 
 @font-face {
+  font-family: "Arial-sumlab";
+  font-style: normal;
+  font-weight: normal;
+  src: font-url("oswald/ArialRoundedBold.woff2") format('woff2');
+}
+
+@font-face {
   font-family: "Oswald";
   src: font-url("oswald/oswald-light.ttf") format("truetype");
   font-weight: lighter;
