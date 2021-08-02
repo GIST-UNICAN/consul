@@ -8,19 +8,17 @@ es:
         long_description: '<p>La movilidad es un derecho de la ciudadanía y un elemento imprescindible de cohesión social y territorial. Por ello deben introducirse medidas sostenibles desde una perspectiva social, económica y medioambiental, que garanticen una movilidad inclusiva y el logro de la accesibilidad universal. </p>'
         targets:
           target_1_1:
-            title: "Para 2030, erradicar la pobreza extrema para todas las personas en el mundo, actualmente medida por un ingreso por persona inferior a 1,25 dólares al día."
+            title: "Planificación de la movilidad sostenible."
           target_1_2:
-            title: "Para 2030, reducir al menos a la mitad la proporción de hombres, mujeres y niños y niñas de todas las edades que viven en la pobreza en todas sus dimensiones con arreglo a las definiciones nacionales."
+            title: "Abandono del coche privado en la movilidad urbana."
           target_1_3:
-            title: "Poner en práctica a nivel nacional sistemas y medidas apropiadas de protección social para todos y, para 2030, lograr una amplia cobertura de los pobres y los más vulnerables."
+            title: "Movilidad en el ámbito rural."
           target_1_4:
-            title: "Para 2030, garantizar que todos los hombres y mujeres, en particular los pobres y los más vulnerables, tengan los mismos derechos a los recursos económicos, así como acceso a los servicios básicos, la propiedad y el control de las tierras y otros bienes, la herencia, los recursos naturales, las nuevas tecnologías y los servicios económicos, incluida la microfinanciación."
+            title: "Obligaciones de los servicios público de transporte."
           target_1_5:
-            title: "Para 2030, fomentar la resiliencia de los pobres y las personas que se encuentran en situaciones vulnerables y reducir su exposición y vulnerabilidad a los fenómenos extremos relacionados con el clima y a otros desastres económicos, sociales y ambientales."
-          target_1_A:
-            title: "Garantizar una movilización importante de recursos procedentes de diversas fuentes, incluso mediante la mejora de la cooperación para el desarrollo, a fin de proporcionar medios suficientes y previsibles para los países en desarrollo, en particular los países menos adelantados, para poner en práctica programas y políticas encaminados a poner fin a la pobreza en todas sus dimensiones."
-          target_1_B:
-            title: "Crear marcos normativos sólidos en el ámbito nacional, regional e internacional, sobre la base de estrategias de desarrollo en favor de los pobres que tengan en cuenta las cuestiones de género, a fin de apoyar la inversión acelerada en medidas para erradicar la pobreza."
+            title: "Accesibilidad universal."
+          target_1_6:
+            title: "Liberalización del transporte ferroviario de viajeros"
       goal_2:
         title: "Inversiones sostenibles"
         title_in_two_lines: "Priorizando las\ninversiones sostenibles"
