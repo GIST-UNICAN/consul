@@ -33,21 +33,15 @@ es:
 </ul>'
         targets:
           target_2_1:
-            title: "Para 2030, poner fin al hambre y asegurar el acceso de todas las personas, en particular los pobres y las personas en situaciones vulnerables, incluidos los lactantes, a una alimentación sana, nutritiva y suficiente durante todo el año."
+            title: "Nuevos criterios de priorización de inversiones."
           target_2_2:
-            title: "Para 2030, poner fin a todas las formas de malnutrición, incluso logrando, a más tardar en 2025, las metas convenidas internacionalmente sobre el retraso del crecimiento y la emaciación de los niños menores de 5 años, y abordar las necesidades de nutrición de las adolescentes, las mujeres embarazadas y lactantes y las personas de edad."
+            title: "Planificación y gestión de la red viaria estatal."
           target_2_3:
-            title: "Para 2030, duplicar la productividad agrícola y los ingresos de los productores de alimentos en pequeña escala, en particular las mujeres, los pueblos indígenas, los agricultores familiares, los pastores y los pescadores, entre otras cosas mediante un acceso seguro y equitativo a las tierras, a otros recursos de producción e insumos, conocimientos, servicios financieros, mercados y oportunidades para la generación de valor añadido y empleos no agrícolas."
+            title: "Planificación y gestión de la red ferroviaria de interés general."
           target_2_4:
-            title: "Para 2030, asegurar la sostenibilidad de los sistemas de producción de alimentos y aplicar prácticas agrícolas resilientes que aumenten la productividad y la producción, contribuyan al mantenimiento de los ecosistemas, fortalezcan la capacidad de adaptación al cambio climático, los fenómenos meteorológicos extremos, las sequías, las inundaciones y otros desastres, y mejoren progresivamente la calidad del suelo y la tierra."
+            title: "Fiscalidad del transporte."
           target_2_5:
-            title: "Para 2020, mantener la diversidad genética de las semillas, las plantas cultivadas y los animales de granja y domesticados y sus especies silvestres conexas, entre otras cosas mediante una buena gestión y diversificación de los bancos de semillas y plantas a nivel nacional, regional e internacional, y promover el acceso a los beneficios que se deriven de la utilización de los recursos genéticos y los conocimientos tradicionales y su distribución justa y equitativa, como se ha convenido internacionalmente."
-          target_2_A:
-            title: "Aumentar las inversiones, incluso mediante una mayor cooperación internacional, en la infraestructura rural, la investigación agrícola y los servicios de extensión, el desarrollo tecnológico y los bancos de genes de plantas y ganado a fin de mejorar la capacidad de producción agrícola en los países en desarrollo, en particular en los países menos adelantados."
-          target_2_B:
-            title: "Corregir y prevenir las restricciones y distorsiones comerciales en los mercados agropecuarios mundiales, entre otras cosas mediante la eliminación paralela de todas las formas de subvenciones a las exportaciones agrícolas y todas las medidas de exportación con efectos equivalentes, de conformidad con el mandato de la Ronda de Doha para el Desarrollo."
-          target_2_C:
-            title: "Adoptar medidas para asegurar el buen funcionamiento de los mercados de productos básicos alimentarios y sus derivados y facilitar el acceso oportuno a información sobre los mercados, en particular sobre las reservas de alimentos, a fin de ayudar a limitar la extrema volatilidad de los precios de los alimentos."
+            title: "Mecanismos de gobernanza: transparencia y participación."
       goal_3:
         title: "Desplazamientos seguros"
         title_in_two_lines: "Desplazamientos\nseguros"
@@ -61,31 +55,23 @@ es:
 <p>También adquiere importancia la seguridad sanitaria motivada por la pandemia del COVID-19.</p>'
         targets:
           target_3_1:
-            title: "Para 2030, reducir la tasa mundial de mortalidad materna a menos de 70 por cada 100.000 nacidos vivos."
+            title: "Refuerzo de la inversión en materia de seguridad."
           target_3_2:
-            title: "Para 2030, poner fin a las muertes evitables de recién nacidos y de niños menores de 5 años, logrando que todos los países intenten reducir la mortalidad neonatal al menos hasta 12 por cada 1.000 nacidos vivos, y la mortalidad de niños menores de 5 años al menos hasta 25 por cada 1.000 nacidos vivos."
+            title: "Refuerzo de las organizaciones de supervisión y control e investigación técnica de accidentes."
           target_3_3:
-            title: "Para 2030, poner fin a las epidemias del SIDA, la tuberculosis, la malaria y las enfermedades tropicales desatendidas y combatir la hepatitis, las enfermedades transmitidas por el agua y otras enfermedades transmisibles."
+            title: "Refuerzo de la seguridad frente a actos ilícitos."
           target_3_4:
-            title: "Para 2030, reducir en un tercio la mortalidad prematura por enfermedades no transmisibles mediante la prevención y el tratamiento y promover la salud mental y el bienestar."
+            title: "Medidas normativas."
           target_3_5:
-            title: "Fortalecer la prevención y el tratamiento del abuso de sustancias adictivas, incluido el uso indebido de estupefacientes y el consumo nocivo de alcohol."
+            title: "Mejora de la gestión operativa en casos de emergencias y crisis."
           target_3_6:
-            title: "Para 2020, reducir a la mitad el número de muertes y lesiones causadas por accidentes de tráfico en el mundo."
+            title: "Refuerzo en ciberseguridad."
           target_3_7:
-            title: "Para 2030, garantizar el acceso universal a los servicios de salud sexual y reproductiva, incluidos los de planificación de la familia, información y educación, y la integración de la salud reproductiva en las estrategias y los programas nacionales."
+            title: "I+d+i en el ámbito de la seguridad."
           target_3_8:
-            title: "Lograr la cobertura sanitaria universal, en particular la protección contra los riesgos financieros, el acceso a servicios de salud esenciales de calidad y el acceso a medicamentos y vacunas seguros, eficaces, asequibles y de calidad para todos."
+            title: "Fomento de la cultura de la seguridad en el sector."
           target_3_9:
-            title: "Para 2030, reducir sustancialmente el número de muertes y enfermedades producidas por productos químicos peligrosos y la contaminación del aire, el agua y el suelo."
-          target_3_A:
-            title: "Fortalecer la aplicación del Convenio Marco de la Organización Mundial de la Salud para el Control del Tabaco en todos los países, según proceda."
-          target_3_B:
-            title: "Apoyar las actividades de investigación y desarrollo de vacunas y medicamentos para las enfermedades transmisibles y no transmisibles que afectan primordialmente a los países en desarrollo y facilitar el acceso a medicamentos y vacunas esenciales asequibles de conformidad con la Declaración de Doha relativa al Acuerdo sobre los ADPIC y la Salud Pública, en la que se afirma el derecho de los países en desarrollo a utilizar al máximo las disposiciones del Acuerdo sobre los Aspectos de los Derechos de Propiedad Intelectual Relacionados con el Comercio en lo relativo a la flexibilidad para proteger la salud pública y, en particular, proporcionar acceso a los medicamentos para todos."
-          target_3_C:
-            title: "Aumentar sustancialmente la financiación de la salud y la contratación, el desarrollo, la capacitación y la retención del personal sanitario en los países en desarrollo, especialmente en los países menos adelantados y los pequeños Estados insulares en desarrollo."
-          target_3_D:
-            title: "Reforzar la capacidad de todos los países, en particular los países en desarrollo, en materia de alerta temprana, reducción de riesgos y gestión de los riesgos para la salud nacional y mundial."
+            title: "Adaptación de las infraestructuras al cambio climático."
       goal_4:
         title: "Desplazamientos sin emisiones"
         title_in_two_lines: "Desplazamientos\nsin emisiones"
@@ -95,25 +81,13 @@ es:
 <p>En este sentido, una de las medidas que más relevancia tiene en la reducción de la contaminación es la MEJORA DEL TRANSPORTE.</p>'
         targets:
           target_4_1:
-            title: "De aquí a 2030, asegurar que todas las niñas y todos los niños terminen la enseñanza primaria y secundaria, que ha de ser gratuita, equitativa y de calidad y producir resultados de aprendizaje pertinentes y efectivos."
+            title: "Estímulo de fuentes de energía alternativas y sostenibles."
           target_4_2:
-            title: "De aquí a 2030, asegurar que todas las niñas y todos los niños tengan acceso a servicios de atención y desarrollo en la primera infancia y educación preescolar de calidad, a fin de que estén preparados para la enseñanza primaria."
+            title: "Estímulo de medios de transporte de bajas emisiones."
           target_4_3:
-            title: "De aquí a 2030, asegurar el acceso igualitario de todos los hombres y las mujeres a una formación técnica, profesional y superior de calidad, incluida la enseñanza universitaria."
+            title: "Sostenibilidad de terminales, edificios y otras instalaciones del transporte."
           target_4_4:
-            title: "De aquí a 2030, aumentar considerablemente el número de jóvenes y adultos que tienen las competencias necesarias, en particular técnicas y profesionales, para acceder al empleo, el trabajo decente y el emprendimiento."
-          target_4_5:
-            title: "De aquí a 2030, eliminar las disparidades de género en la educación y asegurar el acceso igualitario a todos los niveles de la enseñanza y la formación profesional para las personas vulnerables, incluidas las personas con discapacidad, los pueblos indígenas y los niños en situaciones de vulnerabilidad."
-          target_4_6:
-            title: "De aquí a 2030, asegurar que todos los jóvenes y una proporción considerable de los adultos, tanto hombres como mujeres, estén alfabetizados y tengan nociones elementales de aritmética."
-          target_4_7:
-            title: "De aquí a 2030, asegurar que todos los alumnos adquieran los conocimientos teóricos y prácticos necesarios para promover el desarrollo sostenible, entre otras cosas mediante la educación para el desarrollo sostenible y los estilos de vida sostenibles, los derechos humanos, la igualdad de género, la promoción de una cultura de paz y no violencia, la ciudadanía mundial y la valoración de la diversidad cultural y la contribución de la cultura al desarrollo sostenible."
-          target_4_A:
-            title: "Construir y adecuar instalaciones educativas que tengan en cuenta las necesidades de los niños y las personas con discapacidad y las diferencias de género, y que ofrezcan entornos de aprendizaje seguros, no violentos, inclusivos y eficaces para todos."
-          target_4_B:
-            title: "De aquí a 2020, aumentar considerablemente a nivel mundial el número de becas disponibles para los países en desarrollo, en particular los países menos adelantados, los pequeños Estados insulares en desarrollo y los países africanos, a fin de que sus estudiantes puedan matricularse en programas de enseñanza superior, incluidos programas de formación profesional y programas técnicos, científicos, de ingeniería y de tecnología de la información y las comunicaciones, de países desarrollados y otros países en desarrollo."
-          target_4_C:
-            title: "De aquí a 2030, aumentar considerablemente la oferta de docentes calificados, incluso mediante la cooperación internacional para la formación de docentes en los países en desarrollo, especialmente los países menos adelantados y los pequeños Estados insulares en desarrollo."
+            title: "Gestión eficiente de sistemas y medios de transporte."
       goal_5:
         title: "La movilidad del futuro "
         title_in_two_lines: "La movilidad\ndel futuro"
@@ -121,23 +95,15 @@ es:
         long_description: '<p>Las distintas Administraciones públicas deben aprovechar la oportunidad que brinda la TRANSFORMACIÓN DIGITAL y explorar el uso de la tecnología como herramienta para resolver los grandes retos de movilidad a corto y medio plazo (eficiencia, sostenibilidad, seguridad).</p>'
         targets:
           target_5_1:
-            title: "Poner fin a todas las formas de discriminación contra todas las mujeres y las niñas en todo el mundo."
+            title: "Facilitación de la movilidad como servicio, datos abiertos y nuevas tecnologías para el análisis y optimización de la movilidad."
           target_5_2:
-            title: "Eliminar todas las formas de violencia contra todas las mujeres y las niñas en los ámbitos público y privado, incluidas la trata y la explotación sexual y otros tipos de explotación."
+            title: "Gestión inteligente de infraestructuras, terminales y estaciones."
           target_5_3:
-            title: "Eliminar todas las prácticas nocivas, como el matrimonio infantil, precoz y forzado y la mutilación genital femenina."
+            title: "Automatización del transporte y la logística. Impulso a vehículos conectados y autónomos (automóvil, ferrocarril, buques) y a la utilización de galileo en movilidad."
           target_5_4:
-            title: "Reconocer y valorar los cuidados y el trabajo doméstico no remunerados mediante servicios públicos, infraestructuras y políticas de protección social, y promoviendo la responsabilidad compartida en el hogar y la familia, según proceda en cada país."
+            title: "Impulso al uso de drones."
           target_5_5:
-            title: "Asegurar la participación plena y efectiva de las mujeres y la igualdad de oportunidades de liderazgo a todos los niveles decisorios en la vida política, económica y pública."
-          target_5_6:
-            title: "Asegurar el acceso universal a la salud sexual y reproductiva y los derechos reproductivos según lo acordado de conformidad con el Programa de Acción de la Conferencia Internacional sobre la Población y el Desarrollo, la Plataforma de Acción de Beijing y los documentos finales de sus conferencias de examen."
-          target_5_A:
-            title: "Emprender reformas que otorguen a las mujeres igualdad de derechos a los recursos económicos, así como acceso a la propiedad y al control de la tierra y otros tipos de bienes, los servicios financieros, la herencia y los recursos naturales, de conformidad con las leyes nacionales."
-          target_5_B:
-            title: "Mejorar el uso de la tecnología instrumental, en particular la tecnología de la información y las comunicaciones, para promover el empoderamiento de las mujeres."
-          target_5_C:
-            title: "Aprobar y fortalecer políticas acertadas y leyes aplicables para promover la igualdad de género y el empoderamiento de todas las mujeres y las niñas a todos los niveles."
+            title: "Fomento de la investigación, desarrollo e innovación en movilidad."
       goal_6:
         title: "Cadenas logísticas intermodales"
         title_in_two_lines: "Cadenas logísticas\nintermodales "
@@ -160,21 +126,13 @@ es:
 <p>La digitalización y las nuevas tecnologías permiten diseñar nuevas soluciones para que el transporte urbano de mercancías sea más sostenible.</p>'
         targets:
           target_6_1:
-            title: "De aquí a 2030, lograr el acceso universal y equitativo al agua potable a un precio asequible para todos."
+            title: "Incremento efectivo del transporte ferroviario de mercancías."
           target_6_2:
-            title: "De aquí a 2030, lograr el acceso a servicios de saneamiento e higiene adecuados y equitativos para todos y poner fin a la defecación al aire libre, prestando especial atención a las necesidades de las mujeres y las niñas y las personas en situaciones de vulnerabilidad."
+            title: "Impulso de una política de intermodalidad."
           target_6_3:
-            title: "De aquí a 2030, mejorar la calidad del agua reduciendo la contaminación, eliminando el vertimiento y minimizando la emisión de productos químicos y materiales peligrosos, reduciendo a la mitad el porcentaje de aguas residuales sin tratar y aumentando considerablemente el reciclado y la reutilización sin riesgos a nivel mundial."
+            title: "Transporte por carretera y distribución urbana de mercancías (DUM)."
           target_6_4:
-            title: "De aquí a 2030, aumentar considerablemente el uso eficiente de los recursos hídricos en todos los sectores y asegurar la sostenibilidad de la extracción y el abastecimiento de agua dulce para hacer frente a la escasez de agua y reducir considerablemente el número de personas que sufren falta de agua."
-          target_6_5:
-            title: "De aquí a 2030, implementar la gestión integrada de los recursos hídricos a todos los niveles, incluso mediante la cooperación transfronteriza, según proceda."
-          target_6_6:
-            title: "De aquí a 2020, proteger y restablecer los ecosistemas relacionados con el agua, incluidos los bosques, las montañas, los humedales, los ríos, los acuíferos y los lagos."
-          target_6_A:
-            title: "De aquí a 2030, ampliar la cooperación internacional y el apoyo prestado a los países en desarrollo para la creación de capacidad en actividades y programas relativos al agua y el saneamiento, como los de captación de agua, desalinización, uso eficiente de los recursos hídricos, tratamiento de aguas residuales, reciclado y tecnologías de reutilización."
-          target_6_B:
-            title: "Apoyar y fortalecer la participación de las comunidades locales en la mejora de la gestión del agua y el saneamiento."
+            title: "Digitalización de la cadena logística."
       goal_7:
         title: "Conectando Europa y conectados al mundo"
         title_in_two_lines: "Conectando Europa\ny conectados al mundo "
@@ -182,15 +140,13 @@ es:
         long_description: '<p>Referido al proceso de creación de un espacio ferroviario europeo único y a la liberalización de los servicios ferroviarios en España. Esta entrada es una recopilación de la normativa aplicable. Para estimular la competitividad del sector ferroviario europeo, la Comisión Europea ha adoptado una estrategia encaminada a “fomentar el desarrollo de una infraestructura ferroviaria eficaz, establecer un mercado ferroviario abierto, suprimir los obstáculos administrativos y técnicos y garantizar condiciones de competencia equitativas frente a los demás modos de transporte.</p>'
         targets:
           target_7_1:
-            title: "De aquí a 2030, garantizar el acceso universal a servicios energéticos asequibles, fiables y modernos."
+            title: "Construcción de un espacio único europeo de transporte."
           target_7_2:
-            title: "De aquí a 2030, aumentar considerablemente la proporción de energía renovable en el conjunto de fuentes energéticas."
+            title: "España como plataforma intercontinental para europa."
           target_7_3:
-            title: "De aquí a 2030, duplicar la tasa mundial de mejora de la eficiencia energética."
-          target_7_A:
-            title: "De aquí a 2030, aumentar la cooperación internacional para facilitar el acceso a la investigación y la tecnología relativas a la energía limpia, incluidas las fuentes renovables, la eficiencia energética y las tecnologías avanzadas y menos contaminantes de combustibles fósiles, y promover la inversión en infraestructura energética y tecnologías limpias."
-          target_7_B:
-            title: "De aquí a 2030, ampliar la infraestructura y mejorar la tecnología para prestar servicios energéticos modernos y sostenibles para todos en los países en desarrollo, en particular los países menos adelantados, los pequeños Estados insulares en desarrollo y los países en desarrollo sin litoral, en consonancia con sus respectivos programas de apoyo."
+            title: "Conexión de nuestros ciudadanos y productos con los principales centros de actividad europeos."
+          target_7_4:
+            title: "El transporte aéreo como puerta al mundo."
       goal_8:
         title: "Aspectos sociales y laborales"
         title_in_two_lines: "Aspectos sociales\ny laborales"
@@ -201,29 +157,15 @@ es:
         <p>Los cambios en la demanda y la transformación de las tendencias en materia de movilidad (auge del teletrabajo, comercio electrónico, ocio en casa…).</p>'
         targets:
           target_8_1:
-            title: "Mantener el crecimiento económico per capita de conformidad con las circunstancias nacionales y, en particular, un crecimiento del producto interno bruto de al menos el 7% anual en los países menos adelantados."
+            title: "Concienciación y sensibilización."
           target_8_2:
-            title: "Lograr niveles más elevados de productividad económica mediante la diversificación, la modernización tecnológica y la innovación, entre otras cosas centrándose en los sectores con gran valor añadido y un uso intensivo de la mano de obra."
+            title: "La formación en el sector del transporte y la movilidad."
           target_8_3:
-            title: "Promover políticas orientadas al desarrollo que apoyen las actividades productivas, la creación de puestos de trabajo decentes, el emprendimiento, la creatividad y la innovación, y fomentar la formalización y el crecimiento de las microempresas y las pequeñas y medianas empresas, incluso mediante el acceso a servicios financieros."
+            title: "Condiciones de trabajo en el ámbito del transporte."
           target_8_4:
-            title: "Mejorar progresivamente, de aquí a 2030, la producción y el consumo eficientes de los recursos mundiales y procurar desvincular el crecimiento económico de la degradación del medio ambiente, conforme al Marco Decenal de Programas sobre modalidades de Consumo y Producción Sostenibles, empezando por los países desarrollados."
+            title: "La mujer en el sector del transporte y la movilidad."
           target_8_5:
             title: "De aquí a 2030, lograr el empleo pleno y productivo y el trabajo decente para todas las mujeres y los hombres, incluidos los jóvenes y las personas con discapacidad, así como la igualdad de remuneración por trabajo de igual valor."
-          target_8_6:
-            title: "De aquí a 2020, reducir considerablemente la proporción de jóvenes que no están empleados y no cursan estudios ni reciben capacitación."
-          target_8_7:
-            title: "Adoptar medidas inmediatas y eficaces para erradicar el trabajo forzoso, poner fin a las formas contemporáneas de esclavitud y la trata de personas y asegurar la prohibición y eliminación de las peores formas de trabajo infantil, incluidos el reclutamiento y la utilización de niños soldados, y, de aquí a 2025, poner fin al trabajo infantil en todas sus formas."
-          target_8_8:
-            title: "Proteger los derechos laborales y promover un entorno de trabajo seguro y sin riesgos para todos los trabajadores, incluidos los trabajadores migrantes, en particular las mujeres migrantes y las personas con empleos precarios."
-          target_8_9:
-            title: "De aquí a 2030, elaborar y poner en práctica políticas encaminadas a promover un turismo sostenible que cree puestos de trabajo y promueva la cultura y los productos locales."
-          target_8_10:
-            title: "Fortalecer la capacidad de las instituciones financieras nacionales para fomentar y ampliar el acceso a los servicios bancarios, financieros y de seguros para todos."
-          target_8_A:
-            title: "Aumentar el apoyo a la iniciativa de ayuda para el comercio en los países en desarrollo, en particular los países menos adelantados, incluso mediante el Marco Integrado Mejorado para la Asistencia Técnica a los Países Menos Adelantados en Materia de Comercio."
-          target_8_B:
-            title: "De aquí a 2020, desarrollar y poner en marcha una estrategia mundial para el empleo de los jóvenes y aplicar el Pacto Mundial para el Empleo de la Organización Internacional del Trabajo."
       goal_9:
         title: "Evolución y transformación institucional"
         title_in_two_lines: "Evolución y transformación\ninstitucional "
@@ -238,22 +180,6 @@ es:
 <li>Simplificación de trámites burocráticos a la ciudadanía.</li>
 </ul>'
         targets:
-          target_9_1:
-            title: "Desarrollar infraestructuras fiables, sostenibles, resilientes y de calidad, incluidas infraestructuras regionales y transfronterizas, para apoyar el desarrollo económico y el bienestar humano, haciendo especial hincapié en el acceso asequible y equitativo para todos."
-          target_9_2:
-            title: "Promover una industrialización inclusiva y sostenible y, de aquí a 2030, aumentar significativamente la contribución de la industria al empleo y al producto interno bruto, de acuerdo con las circunstancias nacionales, y duplicar esa contribución en los países menos adelantados."
-          target_9_3:
-            title: "Aumentar el acceso de las pequeñas industrias y otras empresas, particularmente en los países en desarrollo, a los servicios financieros, incluidos créditos asequibles, y su integración en las cadenas de valor y los mercados."
-          target_9_4:
-            title: "De aquí a 2030, modernizar la infraestructura y reconvertir las industrias para que sean sostenibles, utilizando los recursos con mayor eficacia y promoviendo la adopción de tecnologías y procesos industriales limpios y ambientalmente racionales, y logrando que todos los países tomen medidas de acuerdo con sus capacidades respectivas."
-          target_9_5:
-            title: "Aumentar la investigación científica y mejorar la capacidad tecnológica de los sectores industriales de todos los países, en particular los países en desarrollo, entre otras cosas fomentando la innovación y aumentando considerablemente, de aquí a 2030, el número de personas que trabajan en investigación y desarrollo por millón de habitantes y los gastos de los sectores público y privado en investigación y desarrollo."
-          target_9_A:
-            title: "Facilitar el desarrollo de infraestructuras sostenibles y resilientes en los países en desarrollo mediante un mayor apoyo financiero, tecnológico y técnico a los países africanos, los países menos adelantados, los países en desarrollo sin litoral y los pequeños Estados insulares en desarrollo."
-          target_9_B:
-            title: "Apoyar el desarrollo de tecnologías, la investigación y la innovación nacionales en los países en desarrollo, incluso garantizando un entorno normativo propicio a la diversificación industrial y la adición de valor a los productos básicos, entre otras cosas."
-          target_9_C:
-            title: "Aumentar significativamente el acceso a la tecnología de la información y las comunicaciones y esforzarse por proporcionar acceso universal y asequible a Internet en los países menos adelantados de aquí a 2020."
       goal_10:
         title: "Reducción de las Desigualdades"
         title_in_two_lines: "Reducción de las\nDesigualdades"
