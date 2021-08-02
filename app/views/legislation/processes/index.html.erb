@@ -5,8 +5,21 @@
 <%= render "shared/section_header", i18n_namespace: "legislation.processes.index.section_header", image: "legislation_processes" %>
 
 <div class="row">
+  <div clas="row">
+  <div class="small-12 medium-1 column no-display"><%= image_tag(image_path_for("mt.png"), class: "altura-btn", alt: setting["org_name"]) %></div>
+  <div class="small-12 medium-2 column"><%= image_tag(image_path_for("mt.png"), class: "altura-btn", alt: setting["org_name"]) %></div>
+  <div class="small-12 medium-2 column"><%= image_tag(image_path_for("np.png"), class: "altura-btn", alt: setting["org_name"]) %></div>
+  <div class="small-12 medium-2 column"><%= image_tag(image_path_for("mbe.png"), class: "altura-btn", alt: setting["org_name"]) %></div>
+  <div class="small-12 medium-2 column"><%= image_tag(image_path_for("mi.png"), class: "altura-btn", alt: setting["org_name"]) %></div>
+  <div class="small-12 medium-2 column"><%= image_tag(image_path_for("clii.png"), class: "altura-btn", alt: setting["org_name"]) %></div>
+  <div class="small-12 medium-1 column no-display"><%= image_tag(image_path_for("ejes.png"), class: "", alt: setting["org_name"]) %></div>
+  </div>
+  <div class="small-12 medium-12 column"><%= image_tag(image_path_for("ms.png"), class: "", alt: setting["org_name"]) %></div>
+  <div class="small-12 medium-12 column"><%= image_tag(image_path_for("cecm.png"), class: "", alt: setting["org_name"]) %></div>
+  <div class="small-12 medium-12 column"><%= image_tag(image_path_for("asl.png"), class: "", alt: setting["org_name"]) %></div>
+  <div class="small-12 medium-12 column"><%= image_tag(image_path_for("etca.png"), class: "", alt: setting["org_name"]) %></div>
   <div id="legislation" class="legislation-list small-12 medium-12 column">
-    <%= image_tag(image_path_for("ejes.png"), class: "margin", alt: setting["org_name"]) %>
+    
     <%= render "shared/filter_subnav", i18n_namespace: "legislation.processes.index" %>
 
     <div id="legislation-list">

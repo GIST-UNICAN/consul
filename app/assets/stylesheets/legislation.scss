@@ -6,6 +6,16 @@
 
 // 01. Sidebar menu
 // -----------------
+
+.no-display{
+  visibility: hidden;
+  height:1px;
+
+}
+.altura-btn{
+  max-height:200px;
+
+}
 .legislation-categories {
 
   .menu.simple {
