@@ -1,5 +1,7 @@
+
 .sdg-goal-show {
   @include grid-row;
+
 
   > :not(.feeds-participation) {
     @include grid-column-gutter;
@@ -23,6 +25,7 @@
         content: "";
         flex: 1;
         min-width: 100px;
+
 
         @include breakpoint(small only) {
           min-width: 75px;
@@ -60,6 +63,7 @@
 
         &::after {
           background-image: image-url("sdg/goal_#{$code}_icon_only");
+          filter: brightness(0) invert(1);
         }
       }
     }
