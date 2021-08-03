@@ -3,9 +3,15 @@ es:
     goals:
       goal_1:
         title: "Movilidad para todos"
-        title_in_two_lines: "Movilidad\npara todos"
+        title_in_two_lines: "Movilidad para\ntodos y todas"
         description: "Hacia el logro de una movilidad para todos/as en Cantabria: movilidad inclusiva."
-        long_description: '<p>La movilidad es un derecho de la ciudadanía y un elemento imprescindible de cohesión social y territorial. Por ello deben introducirse medidas sostenibles desde una perspectiva social, económica y medioambiental, que garanticen una movilidad inclusiva y el logro de la accesibilidad universal. </p>'
+        long_description: '<p>La movilidad es un derecho de la ciudadanía y un elemento imprescindible de cohesión social y territorial. Por ello deben introducirse medidas sostenibles desde una perspectiva social, económica y medioambiental, que garanticen una movilidad inclusiva y el logro de la accesibilidad universal. </p>
+        <p>Los aspectos básicos de este eje son:</p>
+<ul>
+<li>Movilidad en zonas rurales de Cantabria.</li>
+<li>Accesibilidad universal.</li>
+<li>Transporte ferroviario de cercanías.</li>
+</ul>'
         targets:
           target_1_1:
             title: "Planificación de la movilidad sostenible."
@@ -52,7 +58,18 @@ es:
 
 <p>Conceptos como la innovación en materia de seguridad y el refuerzo de la ciberseguridad, tomarán un papel primordial debido al proceso de digitalización del transporte.</p>
 
-<p>También adquiere importancia la seguridad sanitaria motivada por la pandemia del COVID-19.</p>'
+<p>También adquiere importancia la seguridad sanitaria motivada por la pandemia del COVID-19.</p>
+
+<p>Los aspectos básicos de este eje son:</p>
+<ul>
+<li>Seguridad vial y seguridad de las infraestructuras.</li>
+<li>Seguridad operacional.</li>
+<li>Seguridad contra actos ilícitos. (actos vandálicos sobre infraestructuras y usuarios de transporte).</li>
+<li>Seguridad en casos de emergencias y crisis.</li>
+<li>Ciberseguridad y protección de datos.</li>
+<li>Seguridad sanitaria motivada por la pandemia de la covid-19.</li>
+<li>Seguridad de las nuevas tecnologías (vehículos autónomos).</li>
+</ul>'
         targets:
           target_3_1:
             title: "Refuerzo de la inversión en materia de seguridad."
@@ -75,7 +92,7 @@ es:
       goal_4:
         title: "Desplazamientos sin emisiones"
         title_in_two_lines: "Desplazamientos\nsin emisiones"
-        description: ""
+        description: "Desplazamientos sin emisiones en Cantabria "
         long_description: '<p>A escala global actualmente se están experimentando niveles de contaminación nunca alcanzados hasta la fecha. Dentro de los contaminantes a largo plazo (que son los que contribuyen al cambio climático) la emisión más importante del sector transporte es el dióxido de carbono (CO2) que tiene una cuota del 99% en las emisiones de gases de efecto invernadero (GEI) totales del sector.</p>
 
 <p>En este sentido, una de las medidas que más relevancia tiene en la reducción de la contaminación es la MEJORA DEL TRANSPORTE.</p>'
@@ -89,10 +106,18 @@ es:
           target_4_4:
             title: "Gestión eficiente de sistemas y medios de transporte."
       goal_5:
-        title: "La movilidad del futuro "
+        title: "La movilidad del futuro"
         title_in_two_lines: "La movilidad\ndel futuro"
         description: "La movilidad del futuro ¿cómo será la nueva movilidad?"
-        long_description: '<p>Las distintas Administraciones públicas deben aprovechar la oportunidad que brinda la TRANSFORMACIÓN DIGITAL y explorar el uso de la tecnología como herramienta para resolver los grandes retos de movilidad a corto y medio plazo (eficiencia, sostenibilidad, seguridad).</p>'
+        long_description: '<p>Las distintas Administraciones públicas deben aprovechar la oportunidad que brinda la TRANSFORMACIÓN DIGITAL y explorar el uso de la tecnología como herramienta para resolver los grandes retos de movilidad a corto y medio plazo (eficiencia, sostenibilidad, seguridad).</p>
+        
+        <p>Los aspectos básicos de este eje son:</p>
+<ul>
+<li>Digitalización y automatización del transporte: datos abiertos y sistemas inteligentes de transporte.</li>
+<li>Gestión inteligente del transporte y la movilidad.</li>
+<li>Gestión inteligente de las infraestructuras.</li>
+<li>Retos que afrontar.</li>
+</ul>'
         targets:
           target_5_1:
             title: "Facilitación de la movilidad como servicio, datos abiertos y nuevas tecnologías para el análisis y optimización de la movilidad."
