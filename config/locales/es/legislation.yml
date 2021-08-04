@@ -65,10 +65,10 @@ es:
         section_header:
           icon_alt: Icono de legislación colaborativa
           title: Ejes de Movilidad
-          help: Ayuda sobre ejes de movilidad 
+          help: Conoce los ejes de movilidad
         section_footer:
           title: Ayuda sobre ejes de movilidad 
-          description: Aporta tu perspectiva sobre diferentes aspectos de la movilidad en Cantabria, organizados según los 9 ejes de movilidad.
+          description: Aporta tu perspectiva sobre diferentes aspectos de la movilidad en Cantabria, organizados según los 9 ejes de movilidad.  <a href="/sdg/goals">Aquí</a> puedes conocerlos en más detalle.
       phase_not_open:
         not_open: Esta fase del proceso todavía no está abierta
       phase_empty:
