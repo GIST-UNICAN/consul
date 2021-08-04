@@ -2,8 +2,17 @@
   <%= t("layouts.header.collaborative_legislation") %> - <%= t("legislation.processes.index.filters.#{@current_filter}") %>
 <% end %>
 
-<%= render "shared/section_header", i18n_namespace: "legislation.processes.index.section_header", image: "legislation_processes" %>
-
+<!--<%= render "shared/section_header", i18n_namespace: "legislation.processes.index.section_header", image: "legislation_processes" %>-->
+<div class="help-header">
+  <div class="row">
+    <div class="small-12 column" data-magellan>
+      <h1 class="inline-block">Ejes de movilidad</h1>
+      <div class="float-right-medium">
+        <%= link_to t("Conoce los objetivos de movilidad sostenible"), "/sdg/goals" %>
+      </div>
+    </div>
+  </div>
+</div>
 <div class="row">
   <div class="small-12 medium-12 column"> Pincha en el eje de Movilidad del que quieras consultar las propuestas y debates para poder participar.</div>
   <div clas="row">
@@ -33,12 +42,12 @@
         </div>
       <% end %>
 
-      <div id="section_help" class="margin" data-magellan-target="section_help">
+      <!--<div id="section_help" class="margin" data-magellan-target="section_help">
         <p class="lead">
           <strong><%= t("legislation.processes.index.section_footer.title") %></strong>
         </p>
         <p><%== t("legislation.processes.index.section_footer.description") %></p>
-      </div>
+      </div>-->
     </div>
   </div>
 </div>
