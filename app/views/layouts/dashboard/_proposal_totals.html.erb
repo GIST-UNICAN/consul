@@ -23,23 +23,23 @@
         <div class="counter">
           <div class="counter-value">
             <%= number_with_delimiter(proposal.votes_for.size, delimiter: ".") %>
-            /
-            <%= number_with_delimiter(next_goal_supports, delimiter: ".") %>
+            <!--/
+            <%= number_with_delimiter(next_goal_supports, delimiter: ".") %>-->
           </div>
           <div class="counter-label">
             <%= t("layouts.dashboard.proposal_totals.supports", count: proposal.votes_for.size) %>
-            <br>
-            <%= t("layouts.dashboard.proposal_totals.current_goal") %>
+            <!--<br>
+            <%= t("layouts.dashboard.proposal_totals.current_goal") %>-->
           </div>
         </div>
 
-        <div class="next-goal-progress">
+        <!--<div class="next-goal-progress">
           <%= next_goal_progress %>%
         </div>
         <div class="progress" role="progressbar" tabindex="0" aria-valuenow="0" aria-valuemin="0"
              aria-valuetext="<%= "#{next_goal_progress}%" %>" aria-valuemax="100">
            <div class="progress-meter" style="width: <%= next_goal_progress %>%"></div>
-        </div>
+        </div>-->
       </div>
 
       <div class="small-12 medium-6 large-4 column">

@@ -117,7 +117,7 @@ class Mailer < ApplicationMailer
     @newsletter = newsletter
     @email_to = recipient_email
 
-    mail(from: 'tetst', to: @email_to, subject: @newsletter.subject)
+    mail(to: @email_to, from: @newsletter.from, subject: @newsletter.subject)
   end
 
   def evaluation_comment(comment, to)
