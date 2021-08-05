@@ -680,12 +680,18 @@ body > header,
     color: $text;
     padding-bottom: 0;
   }
+  .tabla-centrada{
+  display:table;
+  margin: 0 auto;
+  }
 
   ul {
     list-style-type: none;
     margin: 0;
 
+
     li {
+
       @include breakpoint(medium) {
         display: inline-block;
         margin-right: rem-calc(20);
@@ -698,7 +704,7 @@ body > header,
     display: inline-block;
     line-height: $line-height * 2;
     position: relative;
-    text-align: left;
+    text-align: center;
     width: 100%;
 
     @include breakpoint(medium) {
@@ -712,10 +718,12 @@ body > header,
     }
 
     &.is-active {
-      color: #fff;
+      color: white !important;
+      background: $link;
 
       @include breakpoint(medium) {
         @include brand-text;
+        padding: 2px;
         border-bottom: 2px solid;
       }
     }
@@ -723,6 +731,7 @@ body > header,
 
   .input-group {
     padding-top: $line-height / 4;
+    line-height: 1rem !important;
 
     @include breakpoint(medium) {
       margin-bottom: 0;

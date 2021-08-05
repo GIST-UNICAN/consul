@@ -1,8 +1,6 @@
 <% provide :title do %><%= t("proposals.index.title") %><% end %>
 <% content_for :header_addon do %>
-  <%= render "shared/search_form",
-             search_path: proposals_path(page: 1),
-             i18n_namespace: "proposals.index.search_form" %>
+  
 <% end %>
 <% content_for :canonical do %>
   <%= render "shared/canonical", href: proposals_url %>
@@ -119,6 +117,12 @@
                     new_proposal_path,
                     class: "button expanded" %>
 
+        <div class="sidebar-divider"></div>
+<h2 class="sidebar-title">Buscador</h2>
+<br>
+        <%= render "shared/search_form",
+             search_path: proposals_path(page: 1),
+             i18n_namespace: "proposals.index.search_form" %>
         <div class="sidebar-divider"></div>
         <!--<h2 class="sidebar-title"><%= t("proposals.index.selected_proposals") %></h2>
         <br>
