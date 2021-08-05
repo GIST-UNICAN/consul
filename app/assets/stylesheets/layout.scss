@@ -676,8 +676,8 @@ body > header,
 .subnavigation {
 
   @include breakpoint(medium) {
-    background: $body-background;
-    color: $text;
+    background: $link;
+    color: white;
     padding-bottom: 0;
   }
   .tabla-centrada{
@@ -713,7 +713,9 @@ body > header,
       width: auto;
 
       &:hover {
-        color: $link;
+        border-bottom: 2px solid;
+        text-decoration: none;
+
       }
     }
 
@@ -723,7 +725,6 @@ body > header,
 
       @include breakpoint(medium) {
         @include brand-text;
-        padding: 2px;
         border-bottom: 2px solid;
       }
     }
