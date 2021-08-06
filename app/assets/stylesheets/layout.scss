@@ -26,6 +26,10 @@
 // 25. LocalCensusRecords
 //
 
+p{
+  text-align: justify;
+}
+
 // 01. Global styles
 // -----------------
 
@@ -785,7 +789,7 @@ body > header,
     font-weight: bold;
     margin-right: $line-height / 2;
     position: relative;
-    text-align: left;
+    text-align: justify;
 
     @include breakpoint(medium) {
       margin-right: $line-height;
@@ -945,7 +949,7 @@ footer {
 
       @include breakpoint(medium) {
         display: inline-block;
-        text-align: left;
+        text-align: justify;
       }
     }
   }
@@ -1417,7 +1421,7 @@ table {
     th,
     td {
       display: block;
-      text-align: left;
+      text-align: justify;
     }
   }
 }
@@ -2108,7 +2112,7 @@ table {
 
       p {
         font-size: $base-font-size;
-        text-align: left;
+        text-align: justify;
       }
     }
 
@@ -2155,7 +2159,7 @@ table {
 
     h5 {
       font-size: $small-font-size;
-      text-align: left;
+      text-align: justify;
     }
   }
 
