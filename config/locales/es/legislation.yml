@@ -58,10 +58,10 @@ es:
       index:
         filter: Filtro
         filters:
-          open: Ejes activos
-          past: Terminados
-        no_open_processes: No hay ejes activos
-        no_past_processes: No hay ejes terminados
+          open: Subejes activos
+          past: Subejes terminados
+        no_open_processes: No hay subejes activos
+        no_past_processes: No hay subejes terminados
         section_header:
           icon_alt: Icono de legislación colaborativa
           title: Ejes de Movilidad

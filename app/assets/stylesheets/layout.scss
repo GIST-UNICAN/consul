@@ -381,6 +381,10 @@ a {
   display: inline-block;
 }
 
+li {
+text-align: justify;
+}
+
 .truncate-horizontal-text {
   overflow: hidden;
   text-overflow: ellipsis;
