@@ -26,9 +26,25 @@
 // 25. LocalCensusRecords
 //
 
+
+//CUSTOM
 p{
   text-align: justify;
 }
+.collapsible {
+  color: white;
+  cursor: pointer;
+  outline: none;
+}
+.content-collap {
+  padding: 20px 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+  margin: 30px;
+
+  }
+
 
 // 01. Global styles
 // -----------------

@@ -2,6 +2,7 @@
   <%= t("layouts.header.collaborative_legislation") %> - <%= t("legislation.processes.index.filters.#{@current_filter}") %>
 <% end %>
 
+
 <!--<%= render "shared/section_header", i18n_namespace: "legislation.processes.index.section_header", image: "legislation_processes" %>-->
 <div class="help-header">
   <div class="row">
@@ -17,17 +18,73 @@
   <div class="small-12 medium-12 column"> Pincha en el eje de Movilidad del que quieras consultar las propuestas y debates para poder participar.</div>
   <div clas="row">
   <div class="small-12 medium-1 column no-display"><%= image_tag(image_path_for("ejes.png"), class: "altura-btn", alt: setting["org_name"]) %></div>
-  <div class="small-12 medium-2 column"><a href="/legislation/processes/4"><%= image_tag(image_path_for("BOTON1-300.png"), class: "altura-btn", alt: setting["org_name"]) %></a></div>
-  <div class="small-12 medium-2 column"><a href="/legislation/processes/6"><%= image_tag(image_path_for("BOTON2-300.png"), class: "altura-btn", alt: setting["org_name"]) %></a></div>
-  <div class="small-12 medium-2 column"><a href="/legislation/processes/1"><%= image_tag(image_path_for("BOTON3-300.png"), class: "altura-btn", alt: setting["org_name"]) %></a></div>
-  <div class="small-12 medium-2 column"><a href="/legislation/processes/1"><%= image_tag(image_path_for("BOTON4-300.png"), class: "altura-btn", alt: setting["org_name"]) %></a></div>
-  <div class="small-12 medium-2 column"><a href="/legislation/processes/1"><%= image_tag(image_path_for("BOTON5-300.png"), class: "altura-btn", alt: setting["org_name"]) %></a></div>
+  <div class="small-12 medium-2 column collapsible"><a><%= image_tag(image_path_for("BOTON1-300.png"), class: "altura-btn", alt: setting["org_name"]) %></a></div>
+  <div class="content-collap small-12 medium-12 column">
+  <li ><a href="/sdg/goals/1" >Ayuda sobre el eje</a></li>
+  <br>
+  <h4>Subejes</h4>
+  <li ><a href="/legislation/processes/5">Transporte ferroviario de cercanías</a></li>
+  <li ><a href="/legislation/processes/3">Movilidad en zonas rurales</a></li>
+  <li ><a href="/legislation/processes/4">Accesibilidad universal</a></li>
+</div>
+  <div class="small-12 medium-2 column collapsible"><a><%= image_tag(image_path_for("BOTON2-300.png"), class: "altura-btn", alt: setting["org_name"]) %></a></div>
+  <div class="content-collap small-12 medium-12 column">
+  <li ><a href="/sdg/goals/2" >Ayuda sobre el eje</a></li>
+  <br>
+  <h4>Subejes</h4>
+  <li ><a href="/legislation/processes/6">Priorizando las inversiones sostenibles en Cantabria</a></li>
+</div>
+  <div class="small-12 medium-2 column collapsible"><a><%= image_tag(image_path_for("BOTON3-300.png"), class: "altura-btn", alt: setting["org_name"]) %></a></div>
+  <div class="content-collap small-12 medium-12 column">
+  <li ><a href="/sdg/goals/4" >Ayuda sobre el eje</a></li>
+  <br>
+  <h4>Subejes</h4>
+  <li ><a href="/legislation/processes/22">Red de puntos de carga de vehículos eléctricos</a></li>
+  <li ><a href="/legislation/processes/14">Sin contaminar en nuestros desplazamientos</a></li>
+  <li ><a href="/legislation/processes/15">Movilidad eléctrica</a></li>
+  <li ><a href="/legislation/processes/16">Fiscalidad del transporte</a></li>
+</div>
+  <div class="small-12 medium-2 column collapsible"><a><%= image_tag(image_path_for("BOTON4-300.png"), class: "altura-btn", alt: setting["org_name"]) %></a></div>
+  <div class="content-collap small-12 medium-12 column">
+  <li ><a href="/sdg/goals/5" >Ayuda sobre el eje</a></li>
+  <br>
+  <h4>Subejes</h4>
+  <li ><a href="/legislation/processes/18">Gestión inteligente del transporte y la movilidad</a></li>
+  <li ><a href="/legislation/processes/20">Retos que afrontar</a></li>
+  <li ><a href="/legislation/processes/19">Gestión inteligente de las infraestructuras</a></li>
+  <li ><a href="/legislation/processes/17">Digitalización y automatización del transporte: datos abiertos y sistemas inteligentes de transporte</a></li>
+</div>
+  <div class="small-12 medium-2 column collapsible"><a><%= image_tag(image_path_for("BOTON5-300.png"), class: "altura-btn", alt: setting["org_name"]) %></a></div>
+  <div class="content-collap small-12 medium-12 column">
+  <li ><a href="/sdg/goals/6" >Ayuda sobre el eje</a></li>
+</div>
   <div class="small-12 medium-1 column no-display"><%= image_tag(image_path_for("ejes.png"), class: "", alt: setting["org_name"]) %></div>
   </div>
-  <div class="small-12 medium-12 column"><a href="/legislation/processes/7"><%= image_tag(image_path_for("ms.png"), class: "", alt: setting["org_name"]) %></a></div>
-  <div class="small-12 medium-12 column"><a href="/legislation/processes/1"><%= image_tag(image_path_for("cecm.png"), class: "", alt: setting["org_name"]) %></a></div>
-  <div class="small-12 medium-12 column"><a href="/legislation/processes/1"><%= image_tag(image_path_for("asl.png"), class: "", alt: setting["org_name"]) %></a></div>
-  <div class="small-12 medium-12 column"><a href="/legislation/processes/1"><%= image_tag(image_path_for("etca.png"), class: "", alt: setting["org_name"]) %></a></div>
+  <div class="small-12 medium-12 column collapsible"><a><%= image_tag(image_path_for("ms.png"), class: "", alt: setting["org_name"]) %></a></div>
+  <div class="content-collap small-12 medium-12 column">
+  <li ><a href="/sdg/goals/3" >Ayuda sobre el eje</a></li>
+  <br>
+  <h4>Subejes</h4>
+  <li ><a href="/legislation/processes/7">Seguridad vial y seguridad de las infraestructuras</a></li>
+  <li ><a href="/legislation/processes/8">Seguridad operacional</a></li>
+  <li ><a href="/legislation/processes/9">Seguridad contra actos ilícitos</a></li>
+  <li ><a href="/legislation/processes/12">Seguridad sanitaria motivada por la pandemia del covid-19</a></li>
+  <li ><a href="/legislation/processes/11">Ciberseguridad y protección de datos</a></li>
+  <li ><a href="/legislation/processes/13">Seguridad de las nuevas tecnologías (vehículos autónomos)</a></li>
+  <li ><a href="/legislation/processes/10">Seguridad en casos de emergencias y crisis</a></li>
+</div>
+  <div class="small-12 medium-12 column collapsible"><a><%= image_tag(image_path_for("cecm.png"), class: "", alt: setting["org_name"]) %></a></div>
+  <div class="content-collap small-12 medium-12 column">
+  <li ><a href="/sdg/goals/7" >Ayuda sobre el eje</a></li>
+</div>
+  <div class="small-12 medium-12 column collapsible"><a><%= image_tag(image_path_for("asl.png"), class: "", alt: setting["org_name"]) %></a></div>
+  <div class="content-collap small-12 medium-12 column">
+  <li ><a href="/sdg/goals/8" >Ayuda sobre el eje</a></li>
+</div>
+  <div class="small-12 medium-12 column collapsible"><a><%= image_tag(image_path_for("etca.png"), class: "", alt: setting["org_name"]) %></a></div>
+  <div class="content-collap small-12 medium-12 column">
+  <li ><a href="/sdg/goals/9" >Ayuda sobre el eje</a></li>
+</div>
   <div id="legislation" class="legislation-list small-12 medium-12 column">
     
     <%= render "shared/filter_subnav", i18n_namespace: "legislation.processes.index" %>
@@ -51,3 +108,22 @@
     </div>
   </div>
 </div>
+<script>
+  console.log("va");
+var coll = document.getElementsByClassName("collapsible");
+var i;
+console.log(coll);
+for (let item of coll) {
+  item.addEventListener("click", function() {
+    this.classList.toggle("active");
+    console.log(this.classList);
+    var content = this.nextElementSibling;
+    console.log(content)
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
