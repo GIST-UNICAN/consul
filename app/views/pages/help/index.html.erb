@@ -9,16 +9,79 @@
   <div class="row">
     <div class="small-12 medium-12 column">
       <h2><%= t("pages.help.title", org: setting["org_name"]) %></h2>
-      <p><%= t("pages.help.guide", org: setting["org_name"]) %></p>
+      <!--<p><%= t("pages.help.guide", org: setting["org_name"]) %></p>-->
+      <p><a href="/">CANTABRIA SE MUEVE</a> es una plataforma de participación ciudadana para el desarrollo de Estrategias de Movilidad Sostenible en la región. </p>
+
+<p>Esta guía explica para qué sirven y cómo funciona cada una de las secciones de <a href="/">CANTABRIA SE MUEVE</a></p>
     </div>
   </div>
 
-  <%= render "pages/help/menu" %>
+  <!--<%= render "pages/help/menu" %>-->
 </div>
 
 <div id="more-info" class="more-info-content">
   <div class="row">
-    <div class="small-12 medium-12 large-12 column">
+
+
+<div class="row section-content">
+<div class="small-12 column" id="proposals" data-magellan-target="proposals">
+    <h3>REGISTRO ANÓNIMO DE PARTICIPANTES</h3>
+
+    
+  <p>
+    Para poder interactuar en la plataforma será necesario registrarse a través de un sencillo paso. Para ello se deberá de iniciar sesión en la pestaña <a href="/users/sign_up">REGISTRO</a>  una vez confirmado el correo y contraseña. Los datos requeridos para el registro son:  permite a los usuarios registrados presentar o apoyar propuestas, para que sean estudiadas y en su caso llevadas a cabo.
+  </p>
+  <ul>
+    <li>Nombre de usuario (o apodo) que aparecerá visible.</li>
+    <li>Contraseña de acceso.</li>
+    <li>Confirmar contraseña de acceso.</li>
+    <li>Aceptar condiciones de uso.</li>
+  </ul>
+
+  </div></div>
+<div class="row section-content">
+<div class="small-12 column" id="proposals" data-magellan-target="proposals">
+    <h3>EJES DE MOVILIDAD</h3>
+
+    
+  <p>
+    Pinchando en la pestaña <a href="/legislation/processes">EJES DE MOVILIDAD</a> accederás al organigrama de cada uno de los ejes y a los “SUBEJES ACTIVOS” donde podrás dejar tus reflexiones, aportaciones y opinión. Queremos escuchar los problemas de movilidad que aprecias en el lugar de Cantabria donde desarrollas tu vida y las posibles soluciones que encuentras para el bien común de toda la ciudadanía.
+  </p>
+  <p>También puedes consultar uno a uno cada eje pinchando en el eje de Movilidad del que quieras consultar las propuestas y debates para poder participar. Si dentro pinchas en “AYUDA SOBRE EL EJE” encontrarás información sobre su contenido, principios básicos y objetivos. Igualmente podrás acceder a cada una de las propuestas establecidas para dar tu opinión, aportaciones, reflexiones y votos. Ten en cuenta que muchas de las propuestas engloban varios ejes.</p>
+  <p>Igualmente podrás interactuar con los comentarios de otros usuarios apoyándolos si los consideras relevantes.</p>
+  
+
+  </div></div>
+  <div class="row section-content">
+<div class="small-12 column" id="proposals" data-magellan-target="proposals">
+    <h3>PROPUESTAS</h3>
+
+    
+  <p>
+    Pinchando en la pestaña <a href="/proposals">PROPUESTAS</a>, aparecerán todas las propuestas establecidas donde podrás transmitir tu opinión, aportaciones, reflexiones y votar aquellas propuestas que te parezcan más interesantes.
+  </p>
+  <p>También podrás interactuar con los comentarios de otros usuarios apoyándolos si los consideras relevantes.</p>
+  
+  </div></div>
+  <div class="row section-content">
+  <div class="small-12 column" id="proposals" data-magellan-target="proposals">
+    <h3>CREAR UNA PROPUESTA</h3>
+
+    
+  <p>
+    ...
+  </p>
+  <p>...</p>
+  
+  </div></div>
+ 
+ <div class="row section-content">
+<div class="small-12 column" id="proposals" data-magellan-target="proposals">
+<p>Recuerda ser respetuoso en tus aportaciones y las de los demás. Queremos que <a href="/">CANTABRIA SE MUEVE</a> sea un espacio abierto para el debate y reflexión sobre el futuro de la movilidad en nuestra región. </p> 
+</div></div>
+
+
+    <!--<div class="small-12 medium-12 large-12 column">
       <% if feature?(:debates) %>
         <%= render "pages/help/debates" %>
       <% end %>
@@ -38,7 +101,7 @@
       <% if feature?(:legislation) %>
         <%= render "pages/help/processes" %>
       <% end %>
-    </div>
+    </div> -->
     
   </div>
 
