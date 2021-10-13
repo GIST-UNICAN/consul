@@ -8,9 +8,9 @@
 <div class="jumbo light">
   <div class="row">
     <div class="small-12 medium-12 column">
-      <!--<h2><%= t("pages.help.title", org: setting["org_name"]) %></h2>-->
+      <h2><%= t("pages.help.title", org: setting["org_name"]) %></h2>
       <!--<p><%= t("pages.help.guide", org: setting["org_name"]) %></p>-->
-      <h3><a href="/">CANTABRIA EN MOVIMIENTO</a> es una plataforma de participación ciudadana para el desarrollo de Estrategias de Movilidad Sostenible en la región. </h3>
+      <p><a href="/">CANTABRIA EN MOVIMIENTO</a> es una plataforma de participación ciudadana para el desarrollo de Estrategias de Movilidad Sostenible en la región. </p>
 
 <p>Esta guía explica para qué sirven y cómo funciona cada una de las secciones de <a href="/">CANTABRIA EN MOVIMIENTO</a></p>
     </div>
