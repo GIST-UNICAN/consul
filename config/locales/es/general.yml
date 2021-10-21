@@ -246,7 +246,7 @@ es:
           other: Tienes %{count} notificaciones nuevas
           zero: "No tienes notificaciones nuevas"
         notifications: Notificaciones
-      sdg: "OMS"
+      sdg: "Ejes de movilidad sostenible"
   notifications:
     index:
       empty_notifications: No tienes notificaciones nuevas.
@@ -688,7 +688,7 @@ es:
       from: "Desde"
       general: "Con el texto"
       general_placeholder: "Escribe el texto"
-      goal: "Por OMS"
+      goal: "Por EMS"
       goal_blank: "Elige un objetivo"
       search: "Filtrar"
       target: "Por meta"
