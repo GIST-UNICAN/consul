@@ -333,7 +333,7 @@ es:
       proposal_summary_note: "(máximo 200 caracteres)"
       proposal_video_url_note: Puedes añadir un enlace a YouTube o Vimeo
       tag_category_label: "Categorías"
-      tags_instructions: "Etiqueta esta propuesta. Puedes elegir entre las categorías propuestas o introducir las que desees"
+      tags_instructions: "Etiqueta esta propuesta con palabras clave, para que sea más fácil de encontrar por otros usarios. Puedes elegir entre las categorías propuestas o introducir las que desees"
       tags_label: Etiquetas
       tags_placeholder: "Escribe las etiquetas que desees separadas por coma (',')"
       map_location: "Ubicación en el mapa"
@@ -392,8 +392,9 @@ es:
       form:
         submit_button: Crear propuesta
       more_info: '¿Cómo funcionan las propuestas ciudadanas?'
-      recommendation_one: No escribas el título de la propuesta o frases enteras en mayúsculas. En internet eso se considera gritar. Y a nadie le gusta que le griten.
-      recommendation_three: Disfruta de este espacio, de las voces que lo llenan, también es tuyo.
+      # recommendation_one: Disfruta de este espacio, de las voces que lo llenan, también es tuyo.
+      recommendation_one: Asegúrate de seleccionar al menos un eje alineado con tu propuesta, para que otros usuarios puedan encontrarla.
+      recommendation_three: No escribas el título de la propuesta o frases enteras en mayúsculas. En internet eso se considera gritar. Y a nadie le gusta que le griten.
       recommendation_two: Cualquier propuesta o comentario que implique una acción ilegal será eliminada, también las que tengan la intención de sabotear los espacios de propuesta, todo lo demás está permitido.
       recommendations_title: Recomendaciones para crear una propuesta
       start_new: Crear una propuesta
@@ -453,7 +454,7 @@ es:
         submit_button: Guardar cambios
   dashboard:
     menu:
-      my_proposal: Editar mi propuesta
+      my_proposal: "Editar, retirar, o publicar mi propuesta"
       progress: Progreso
       resources: Recursos
       community: Comunidad

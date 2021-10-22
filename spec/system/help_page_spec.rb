@@ -43,7 +43,7 @@ describe "Help page" do
       click_link "Help"
     end
 
-    expect(page).to have_link "Sustainable Development Goals help", href: sdg_help_path
+    expect(page).to have_link "Sustainable Development Goals help", href: "/sdg/goals" # sdg_help_path
   end
 
   scenario "does not render the SDG help page link when the feature is disabled" do

@@ -1,6 +1,6 @@
 <section class="sdg-goal-targets">
   <ul class="tabs" id="goal_<%= goal.code %>_targets" data-deep-link="true" data-tabs>
-    <% [global_targets, local_targets].each do |targets| %>
+    <% [global_targets].each do |targets| %> <!-- , local_targets -->
       <li class="tabs-title <%= active(targets) %>">
         <%= link_to title(targets), "#goal_#{@goal.code}_tab_#{type(targets)}_targets" %>
       </li>
@@ -8,7 +8,7 @@
   </ul>
 
   <div class="tabs-content" data-tabs-content="goal_<%= goal.code %>_targets">
-    <% [global_targets, local_targets].each do |targets| %>
+    <% [global_targets].each do |targets| %>  <!-- , local_targets -->
       <div class="tabs-panel <%= active(targets) %>" id="goal_<%= goal.code %>_tab_<%= type(targets) %>_targets">
         <% if targets.blank? %>
           <div class="callout primary">

@@ -1,10 +1,11 @@
 <h3 id="other" data-magellan-target="other"><%= t("pages.help.other.title") %></h3>
 
 <ul class="features">
-  
+
 
   <% if feature?(:sdg) %>
-    <li><%= link_to t("pages.help.other.sdg"), sdg_help_path %></li>
+    <li><%= link_to t("pages.help.other.sdg"),
+      "/sdg/goals" %></li> <!-- sdg_help_path -->
   <% end %>
 
   <% SiteCustomization::Page.with_more_info_flag.with_same_locale.each do |custom_page| %>
