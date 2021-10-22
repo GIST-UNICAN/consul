@@ -454,7 +454,7 @@ es:
         submit_button: Guardar cambios
   dashboard:
     menu:
-      my_proposal: "Editar, retirar, o publicar mi propuesta"
+      my_proposal: "Editar, retirar o publicar mi propuesta"
       progress: Progreso
       resources: Recursos
       community: Comunidad
