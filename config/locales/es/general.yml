@@ -390,14 +390,14 @@ es:
         description: La sección de propuestas ciudadanas permite a los usuarios registrados presentar o apoyar propuestas, para que sean estudiadas y en su caso llevadas a cabo.
     new:
       form:
-        submit_button: Crear propuesta
+        submit_button: Crear borrador de propuesta
       more_info: '¿Cómo funcionan las propuestas ciudadanas?'
       # recommendation_one: Disfruta de este espacio, de las voces que lo llenan, también es tuyo.
       recommendation_one: Asegúrate de seleccionar al menos un eje alineado con tu propuesta, para que otros usuarios puedan encontrarla.
       recommendation_three: No escribas el título de la propuesta o frases enteras en mayúsculas. En internet eso se considera gritar. Y a nadie le gusta que le griten.
       recommendation_two: Cualquier propuesta o comentario que implique una acción ilegal será eliminada, también las que tengan la intención de sabotear los espacios de propuesta, todo lo demás está permitido.
       recommendations_title: Recomendaciones para crear una propuesta
-      start_new: Crear una propuesta
+      start_new: Crear un borrador de propuesta
     notice:
       retired: Propuesta retirada
       published: La propuesta ha sido publicada
