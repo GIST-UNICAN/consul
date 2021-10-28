@@ -304,8 +304,8 @@ es:
       title: '¡Enhorabuena! Has dado el primer paso.'
       motivation: "Es importante preparar la campaña de lanzamiento de tu propuesta para que tenga éxito. Los primeros días son decisivos."
       motivation_2: "<strong>Si quieres recomendaciones para preparar la publicación deja tu propuesta como borrador y te guiaremos.</strong>"
-      publish: No, quiero publicar la propuesta ya
-      dashboard: Si, quiero ayuda y publicaré mas tarde
+      publish: Publicar propuesta
+      dashboard: Borrador
       preview_title: Así es como quedará tu propuesta cuando la publiques
     share:
       improve_it: Mejora tu campaña y consigue mas apoyos.
