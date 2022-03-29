@@ -7,9 +7,9 @@
                                 '/',
                                 controller_name == "welcome",
                                 accesskey: "0" %>
-        
+
       </li>
-      
+
     <% if feature?(:debates) %>
       <li>
         <%= layout_menu_link_to t("layouts.header.debates"),
@@ -34,6 +34,7 @@
                                   accesskey: "3" %>
       </li>
     <% end %>
+    <!-- Cambio legislation por SDG
     <% if feature?(:legislation) %>
       <li>
         <%= layout_menu_link_to t("layouts.header.collaborative_legislation"),
@@ -42,6 +43,18 @@
                                 accesskey: "4" %>
       </li>
     <% end %>
+    -->
+
+
+    <% if feature?(:legislation) %>
+      <li>
+        <%= layout_menu_link_to t("layouts.header.sdg"),
+                                sdg_goals_path,
+                                controller_path == "sdg/goals" && action_name != "help",
+                                accesskey: "6" %>
+      </li>
+    <% end %>
+
     <% if feature?(:budgets) %>
       <li>
         <%= layout_menu_link_to t("layouts.header.budgets"),

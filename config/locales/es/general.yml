@@ -215,7 +215,7 @@ es:
       conditions:
       consul: aplicación CONSUL
       consul_url: https://github.com/consul/consul
-      contact_us: <a href="mailto:emovicantabria@unican.es">Contacto</a>
+      contact_us: <a href="mailto:emoviregional@unican.es">Contacto</a>
       copyright: SUM+LAB, %{year}
       description: Este portal usa la %{consul} que es %{open_source}
       open_source: software de código abierto.
@@ -246,7 +246,7 @@ es:
           other: Tienes %{count} notificaciones nuevas
           zero: "No tienes notificaciones nuevas"
         notifications: Notificaciones
-      sdg: "OMS"
+      sdg: "Ejes de movilidad sostenible"
   notifications:
     index:
       empty_notifications: No tienes notificaciones nuevas.
@@ -304,8 +304,8 @@ es:
       title: '¡Enhorabuena! Has dado el primer paso.'
       motivation: "Es importante preparar la campaña de lanzamiento de tu propuesta para que tenga éxito. Los primeros días son decisivos."
       motivation_2: "<strong>Si quieres recomendaciones para preparar la publicación deja tu propuesta como borrador y te guiaremos.</strong>"
-      publish: No, quiero publicar la propuesta ya
-      dashboard: Si, quiero ayuda y publicaré mas tarde
+      publish: Publicar propuesta
+      dashboard: Borrador
       preview_title: Así es como quedará tu propuesta cuando la publiques
     share:
       improve_it: Mejora tu campaña y consigue mas apoyos.
@@ -333,7 +333,7 @@ es:
       proposal_summary_note: "(máximo 200 caracteres)"
       proposal_video_url_note: Puedes añadir un enlace a YouTube o Vimeo
       tag_category_label: "Categorías"
-      tags_instructions: "Etiqueta esta propuesta. Puedes elegir entre las categorías propuestas o introducir las que desees"
+      tags_instructions: "Etiqueta esta propuesta con palabras clave, para que sea más fácil de encontrar por otros usarios. Puedes elegir entre las categorías propuestas o introducir las que desees"
       tags_label: Etiquetas
       tags_placeholder: "Escribe las etiquetas que desees separadas por coma (',')"
       map_location: "Ubicación en el mapa"
@@ -390,13 +390,14 @@ es:
         description: La sección de propuestas ciudadanas permite a los usuarios registrados presentar o apoyar propuestas, para que sean estudiadas y en su caso llevadas a cabo.
     new:
       form:
-        submit_button: Crear propuesta
+        submit_button: Crear borrador de propuesta
       more_info: '¿Cómo funcionan las propuestas ciudadanas?'
-      recommendation_one: No escribas el título de la propuesta o frases enteras en mayúsculas. En internet eso se considera gritar. Y a nadie le gusta que le griten.
-      recommendation_three: Disfruta de este espacio, de las voces que lo llenan, también es tuyo.
+      # recommendation_one: Disfruta de este espacio, de las voces que lo llenan, también es tuyo.
+      recommendation_one: Asegúrate de seleccionar al menos un eje alineado con tu propuesta, para que otros usuarios puedan encontrarla.
+      recommendation_three: No escribas el título de la propuesta o frases enteras en mayúsculas. En internet eso se considera gritar. Y a nadie le gusta que le griten.
       recommendation_two: Cualquier propuesta o comentario que implique una acción ilegal será eliminada, también las que tengan la intención de sabotear los espacios de propuesta, todo lo demás está permitido.
       recommendations_title: Recomendaciones para crear una propuesta
-      start_new: Crear una propuesta
+      start_new: Crear un borrador de propuesta
     notice:
       retired: Propuesta retirada
       published: La propuesta ha sido publicada
@@ -453,7 +454,7 @@ es:
         submit_button: Guardar cambios
   dashboard:
     menu:
-      my_proposal: Editar mi propuesta
+      my_proposal: "Editar o publicar mi propuesta"
       progress: Progreso
       resources: Recursos
       community: Comunidad
@@ -688,7 +689,7 @@ es:
       from: "Desde"
       general: "Con el texto"
       general_placeholder: "Escribe el texto"
-      goal: "Por OMS"
+      goal: "Por EMS"
       goal_blank: "Elige un objetivo"
       search: "Filtrar"
       target: "Por meta"

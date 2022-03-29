@@ -505,12 +505,12 @@ es:
           other: "%{count} objetivos más"
     related_list_selector:
       goal_identifier: "ODS%{code}"
-      goal_list: "Puedes seleccionar uno o varios ejes con los que se alinea tu %{record}"
+      goal_list: "Por favor selecciona uno o más ejes con los que se alinea tu %{record}"
       help:
         title: "¿Qué ejes y metas se alinean con mi %{record}?"
         text: "página de ayuda de ejes de movilidad"
-      hint: Puedes introducir el código de un objetivo/meta específico o un texto para encontrar uno. Para más información visita la %{link}.
-      placeholder: "Escribe las etiquetas que desees"
+      hint: Puedes introducir el código de un objetivo/meta específico o un texto para encontrarlo. Para más información visita la %{link}.
+      placeholder: "Elige las etiquetas que desees (al menos una)"
       remove_tag: "Eliminar"
       title: "Ejes de Movilidad Sostenible y Metas"
     targets:

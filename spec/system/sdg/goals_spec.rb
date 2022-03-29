@@ -144,7 +144,7 @@ describe "SDG Goals" do
   describe "Help" do
     scenario "shows all SDGs targets" do
       create(:sdg_local_target, code: "15.1.1", title: "SDG local target sample text")
-      visit sdg_help_path
+      visit "/sdg/goals", # sdg_help_path,
 
       expect(page).to have_content "You can align your contributions to the community"
       expect(page).to have_css "h2", exact_text: "1. No Poverty"
